@@ -156,7 +156,7 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
   * (Issued Aug 2017. No Expiration Date)
 
 
-**📊 GitHub Stats**
+<!-- **📊 GitHub Stats**
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmeadejr&theme=matrix&margin-w=15&margin-h=15&column=7" alt="davidmeadejr" /></a> </p> -->
 
@@ -170,7 +170,7 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
 <br />
 <br />
 <br />
-<br />
+<br /> -->
  <p align="center" style="font-size: 60px"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=58a6ff&style=flat&logo" alt="back to top" /></a></p>
 
 <p align="center">
