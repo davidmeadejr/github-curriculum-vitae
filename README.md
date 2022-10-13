@@ -90,8 +90,6 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
 <!--  * <strong>Sales</strong>, <em>Superdry</em> (Sep 2016 – Nov 2021) 
  * <strong>Sales</strong>, <em>House of Fraser</em> (Sep 2015 – Jan 2016)  -->
  
-External curriculum vitae can be found <strong><a href="https://github.com/davidmeadejr/davidmeadejr/blob/master/.github/workflows/curriculum-vitae.pdf" target=”_blank”>here</a></strong>.  -->
-
 ## 💼 Experience
 
 ### 👣 Footprints
@@ -160,7 +158,7 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmeadejr&theme=matrix&margin-w=15&margin-h=15&column=7" alt="davidmeadejr" /></a> </p> -->
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark" /></a> 
+ <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark" /></a> 
  <br />
  <br />
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmeadejr&show_icons=true&theme=chartreuse-dark" alt="DMJ's github stats" /></a> 
