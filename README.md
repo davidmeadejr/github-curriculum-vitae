@@ -105,7 +105,7 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
 
 ## 💼 Experience
 
-***### 👣 Footprints
+### ***👣 Footprints
  * <strong>Trainee Solidity Engineer</strong>, <em>Encode Club</em> (Sept 2022 – Oct 2022)
  * <strong>Trainee Full-Stack Software Engineer</strong>, <em>Makers Academy</em> (Jun 2022 – Oct 2022)
  * <strong>Software Engineer</strong>, <em>Flooz</em> (Mar 2022 –  May 2022) 
