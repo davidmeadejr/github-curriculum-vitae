@@ -117,7 +117,6 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
 
 
 ### Flooz 
-***Full-time***\
 ***(Sep 2017 - Mar 2022)***\
 ***Software Engineer***\
 **Remote**
