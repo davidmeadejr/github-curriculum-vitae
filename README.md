@@ -17,8 +17,6 @@
   &nbsp;
 </div>
 
----
-
  ## 🔎 About
 
 Selected as one of 14 out of over 900 applicants to join Santander UK on the 2017 Technology Degree Apprenticeship program. Obtained a diploma in Financial Studies (DipFS) and was offered a scholarship to study at The London Institute of Banking and Finance in the same year.
@@ -35,8 +33,6 @@ Over 5 years of technical experience in the FinTech industry and working with we
 <br />
 <br />
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
-
----
 
 ## 💻 Tech Stack
 
@@ -75,17 +71,12 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
 <code><img src="https://img.shields.io/badge/-Postman-000000?&style=flat&logo=postman&logoColor=FF6C37"/></code>
 <code><img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=6DA55F"/></code>
 
----
-
 ## 🧱 Projects
 * Past and present projects can be found <strong><a href="https://github.com/davidmeadejr/build-space" target=”_blank”>here</a></strong>. 
 
-
----
 ## 📈 Value
 
 * (TODO)
----
 
 <!-- **👣 Footprints**
  * <strong>Trainee Solidity Engineer</strong>, <em>Encode Club</em> (Sept 2022 – Oct 2022)
@@ -100,8 +91,6 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
  * <strong>Sales</strong>, <em>House of Fraser</em> (Sep 2015 – Jan 2016)  -->
  
 External curriculum vitae can be found <strong><a href="https://github.com/davidmeadejr/davidmeadejr/blob/master/.github/workflows/curriculum-vitae.pdf" target=”_blank”>here</a></strong>.  -->
-
----
 
 ## 💼 Experience
 
