@@ -81,7 +81,7 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
 <code><img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=6DA55F"/></code>
 
 ## 🧱 Projects
-* Past and present projects can be found <strong><a href="https://github.com/davidmeadejr/build-space" target=”_blank”>here</a></strong>. 
+Summaries of solo and collaborative projects. For a complete list, [please see my Github](https://github.com/davidmeadejr?tab=repositories)
 
 ## 📈 Value
 
