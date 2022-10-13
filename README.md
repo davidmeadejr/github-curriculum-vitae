@@ -129,7 +129,7 @@ Click here →  &nbsp;
  * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018) -->
 
 
-### 🌐 Flooz 
+### 🌐 Flooz Inc.
 ***(Sep 2017 - Mar 2022)***\
 ***Software Engineer***\
 **Remote**
