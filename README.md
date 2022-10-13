@@ -115,7 +115,14 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
  * <strong>Apprentice Innovation Consultant</strong>, <em>Santander</em> (Mar 2018 – Sep 2018)    
  * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018)
 
-### Flooz (Remote)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Sep 2017 - Mar 2022)
+<style>
+ mark{
+  colour:red
+  }
+  </style>
+<mark>
+  ### Flooz (Remote)(Sep 2017 - Mar 2022)
+ </mark>
 ***Full-time***\
 ***Software Engineer***
 * Employee No. 27 at Flooz.
