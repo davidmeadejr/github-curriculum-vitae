@@ -23,7 +23,7 @@
 
 <div align="center">
  
-[About](#-about) | [Tech Stack](#-tech-stack) | [Projects](#-Projects) | [Work Experience](#Work-Experience) | [Hobbies](#Hobbies) | [LinkedIn](https://www.linkedin.com/in/jack-overton-40b7931a2/)
+[About](#-about) | [Tech Stack](#-tech-stack) | [Projects](#-Projects) | [Value](#-value) | [Experience](#-experience) | [Education](#-education)
 </div>
 
  ## 🔎 About
