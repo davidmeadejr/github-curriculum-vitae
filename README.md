@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&color=6ad20b&center=true&vCenter=true&width=900&height=60&lines=Digital+Curriculum+Vitae;)](https://git.io/typing-svg)
 
 <div align="center">
-    <a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/curriculum-vitae.pdf">
-<code><img src="https://img.shields.io/badge/-contact-000000?style=flat&logo=gmail&logoColor=ffffff" /></code>
+    <a href="mailto:davidmeadejnrgmail.com">
+<code><img src="https://img.shields.io/badge/-Contact-000000?style=flat&logo=gmail&logoColor=DB4437" /></code>
 </a>
   &nbsp;
 <a href="https://github.com/davidmeadejr/github-curriculum-vitae">
