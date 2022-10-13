@@ -195,7 +195,7 @@ Click here →  &nbsp;
 <br />
 <br />
 <br /> -->
- <p align="center" style="font-size: 60px"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=58a6ff&style=flat&logo" alt="back to top" /></a></p>
+ <p align="center" style="font-size: 60px"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=000&style=flat&logo" alt="back to top" /></a></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
