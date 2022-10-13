@@ -21,7 +21,9 @@
 
 **🔎 About**
 
-Selected as one of 14 out of over 900 applicants to join Santander UK on the 2017 Technology Degree Apprenticeship program. Obtained a diploma in Financial Studies (DipFS) and was offered a scholarship to study at the London Institute of Banking and Finance in the same year. 
+Selected as one of 14 out of over 900 applicants to join Santander UK on the 2017 Technology Degree Apprenticeship program. Obtained a diploma in Financial Studies (DipFS) and was offered a scholarship to study at the London Institute of Banking and Finance in the same year.
+
+Received a fully funded scholarship to study a full-stack software engineering bootcamp at Makers Academy. Which teaches an industry-led, language agnostic curriculum. A full-stack engineer on 3 group projects using JavaScript; an Airbnb clone, a Facebook clone and a final project. Where I utilised agile methodologies, TDD, pair-programming and conducted meetings as a scrum master. Final project was a react native mobile app using JavaScript that digitises a picture of a receipt and enables users to split the bill among friends when eating out.
 
 Over 5 years of technical experience in the FinTech industry and working with web3 start-ups. Great communication, interpersonal and organisation skills with over 5 years of experience in sales. A highly motivated and focused individual passionate about entrepreneurship, product design and blockchain technology.
 
