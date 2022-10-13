@@ -38,7 +38,7 @@ Over 5 years of technical experience in the FinTech industry and working with we
 
 ---
 
-**💻 Tech Stack**  
+## 💻 Tech Stack
 
 Languages: <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code>
 <code><img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript&logoColor=719af4" /></code>
