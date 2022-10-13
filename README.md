@@ -139,20 +139,20 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
 
 ## 👨🏾‍🎓 Education
 
-### Encode Club\
+### Encode Club
 Solidity Bootcamp\
 (Sep 2022 – Oct 2022)
 
-### Makers Academy\
+### Makers Academy
 Software Engineering Bootcamp\
 (Jun 2022 – Oct 2022)
 
-### BPP University\
+### BPP University
 BSc Digital and Technology Solutions, Computer Software Engineering\
 (Sep 2017 – Mar 2021)
 
 ### The London Institute of Banking & Finance
-Diploma in Financial Studies (DipFS)
+Diploma in Financial Studies (DipFS)\
 (Issued Aug 2017. No Expiration Date)
 
 
