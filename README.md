@@ -21,26 +21,9 @@
 
 **🔎 About**
 
-<a href="https://app.daily.dev/davidmeadejr"><img src="https://github.com/davidmeadejr/davidmeadejr/blob/master/devcard.svg" width="200" align="right" alt="David Meade Jr.'s Dev Card"/></a>
+Selected as one of 14 out of over 900 applicants to join Santander UK on the 2017 Technology Degree Apprenticeship program. Obtained a diploma in Financial Studies (DipFS) and was offered a scholarship to study at the London Institute of Banking and Finance in the same year. 
 
-* 🧑🏿‍🎓 **BSc Digital & Technology Solutions** Graduate.
-
-* 🦇🔊 Web3 Solidity Bootcamp Student.
-
-* 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp Graduate.
-
-* 🚀 1+ years of technical experience in web3.
-
-* 🏦 4.5 years of technical experience in FinTech.
-
-* 🧑🏿‍💻 Writing code @ TBC.
-
-* 🙋🏿‍♂️ Building digital products is my thing.
-
-* 🔭 Exploring maths, philosophy, investing and all things web3 in my spare time.
-  * 🥷🏿 <em>(If i'm not at the gym, boxing, running, watching anime or reading manga). </em>
-  
-* 👀 Still curious? Click here → <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
+Over 5 years of technical experience in the FinTech industry and working with web3 start-ups. Great communication, interpersonal and organisation skills with over 5 years of experience in sales. A highly motivated and focused individual passionate about entrepreneurship, product design and blockchain technology.
 
 <!--  ---
 
