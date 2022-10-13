@@ -85,7 +85,7 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
 **📈 Value**
 ---
 
-**👣 Footprints**
+<!-- **👣 Footprints**
  * <strong>Trainee Solidity Engineer</strong>, <em>Encode Club</em> (Sept 2022 – Oct 2022)
  * <strong>Trainee Full-Stack Software Engineer</strong>, <em>Makers Academy</em> (Jun 2022 – Oct 2022)
  * <strong>Software Engineer</strong>, <em>Flooz</em> (Mar 2022 –  May 2022) 
@@ -97,7 +97,7 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
 <!--  * <strong>Sales</strong>, <em>Superdry</em> (Sep 2016 – Nov 2021) 
  * <strong>Sales</strong>, <em>House of Fraser</em> (Sep 2015 – Jan 2016)  -->
  
-External curriculum vitae can be found <strong><a href="https://github.com/davidmeadejr/davidmeadejr/blob/master/.github/workflows/curriculum-vitae.pdf" target=”_blank”>here</a></strong>. 
+External curriculum vitae can be found <strong><a href="https://github.com/davidmeadejr/davidmeadejr/blob/master/.github/workflows/curriculum-vitae.pdf" target=”_blank”>here</a></strong>.  -->
 
 ---
 
