@@ -139,9 +139,9 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
 
 ## 👨🏾‍🎓 Education
 
-### Encode Club
-Solidity Bootcamp\
-(Sep 2022 – Oct 2022)
+* ### Encode Club
+  * Solidity Bootcamp\
+  * (Sep 2022 – Oct 2022)
 
 ### Makers Academy
 Software Engineering Bootcamp\
