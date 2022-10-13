@@ -20,6 +20,11 @@
   &nbsp;
 </div>
 
+<div align="center">
+ 
+[Projects](#Projects-Section) | [About](#About) | [Tech Stack](#Tech Stack) | [Projects](#Projects) | [Value](#Value) | [LinkedIn](https://www.linkedin.com/in/jack-overton-40b7931a2/)
+</div>
+
  ## 🔎 About
 
 Selected as one of 14 out of over 900 applicants to join Santander UK on the 2017 Technology Degree Apprenticeship program. Obtained a diploma in Financial Studies (DipFS) and was offered a scholarship to study at The London Institute of Banking and Finance in the same year.
