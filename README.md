@@ -116,9 +116,11 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
  * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018)
 
 
-### Flooz (Remote) (Sep 2017 - Mar 2022)
+### Flooz 
 ***Full-time***\
-***Software Engineer***
+***(Sep 2017 - Mar 2022)***\
+***Software Engineer***\
+**Remote**
 * Employee No. 27 at Flooz.
 * Updated the Swap Embedded Widget using TypeScript which enables user-friendly and smooth trading functionality. That several token partners now use on their website. Resulting in their users having a smoother trading experience.
 * Used Next.js and TypeScript to implement functionality related to the navigation and user interface on the flooz.trade app. Which resulted in a new modern user experience and interface for the community of over 40’000 users.
