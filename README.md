@@ -117,6 +117,7 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
 
 ### Flooz (Remote)
 ***Full-time***
+  &nbsp;
 ***Software Engineer***
 * Employee No. 27 at Flooz.
 * Updated the Swap Embedded Widget using TypeScript which enables user-friendly and smooth trading functionality. That several token partners now use on their website. Resulting in their users having a smoother trading experience.
