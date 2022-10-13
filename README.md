@@ -112,7 +112,7 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
  * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018)
 
 
-### Flooz 
+### 🌐 Flooz 
 ***(Sep 2017 - Mar 2022)***\
 ***Software Engineer***\
 **Remote**
@@ -120,7 +120,7 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
 * Updated the Swap Embedded Widget using TypeScript which enables user-friendly and smooth trading functionality. That several token partners now use on their website. Resulting in their users having a smoother trading experience.
 * Used Next.js and TypeScript to implement functionality related to the navigation and user interface on the flooz.trade app. Which resulted in a new modern user experience and interface for the community of over 40’000 users.
 
-### Astra 
+### 🌐 Astra 
 ***(Oct 2021 - Apr 2022)***\
 ***Freelance Front-End Engineer***\
 **Remote**
@@ -128,7 +128,7 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
 * Lead the research on the NFT space on the Solana blockchain.  Where I presented findings to the CEO and Head of Design. Highlighting the current NFT landscape for the year 2021 and the near future. Proposing how to successfully launch a NFT project on the Solana blockchain. These findings resulted in the “Rodheads” NFT project being conceptualised.
 * Lead the development of the Rodheads NFT project and website using React, TypeScript and Rust. Generated 2440 Dennis Rodman inspired “Rodheads” to be minted on the Solana blockchain which were pitched to Dennis Rodman and his team. 
 
-### Santander
+### 🏦 Santander
 ***(Sep 2017 - Mar 2022)***\
 ***Technology Degree Apprentice***\
 **Milton Keynes & London**
