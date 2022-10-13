@@ -113,6 +113,13 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
 * Updated the Swap Embedded Widget using TypeScript which enables user-friendly and smooth trading functionality. That several token partners now use on their website. Resulting in their users having a smoother trading experience.
 * Used Next.js and TypeScript to implement functionality related to the navigation and user interface on the flooz.trade app. Which resulted in a new modern user experience and interface for the community of over 40’000 users.
 
+### Astra 
+***(Oct 2021 - Apr 2022)***\
+***Front-End Engineer***\
+**Remote**
+* Lead the front-end development for the version one website using React and TypeScript of the Astra metaverse game for the community of over 15’000. Which was used as part of the pitch to VC’s and as a result led to the company being backed by 2 additional venture capital firms.
+* Lead the research on the NFT space on the Solana blockchain.  Where I presented findings to the CEO and Head of Design. Highlighting the current NFT landscape for the year 2021 and the near future. Proposing how to successfully launch a NFT project on the Solana blockchain. These findings resulted in the “Rodheads” NFT project being conceptualised.
+* Lead the development of the Rodheads NFT project and website using React, TypeScript and Rust. Generated 2440 Dennis Rodman inspired “Rodheads” to be minted on the Solana blockchain which were pitched to Dennis Rodman and his team.   
 
 
 **📊 GitHub Stats**
