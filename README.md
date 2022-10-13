@@ -105,7 +105,7 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
 
 ## 💼 Experience
 
-### 👣 Footprints
+***### 👣 Footprints
  * <strong>Trainee Solidity Engineer</strong>, <em>Encode Club</em> (Sept 2022 – Oct 2022)
  * <strong>Trainee Full-Stack Software Engineer</strong>, <em>Makers Academy</em> (Jun 2022 – Oct 2022)
  * <strong>Software Engineer</strong>, <em>Flooz</em> (Mar 2022 –  May 2022) 
@@ -113,7 +113,7 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
  * <strong>Apprentice Front-End Engineer</strong>, <em>Santander</em> (Mar 2019 – Feb 2022)  
  * <strong>Apprentice Cyber Security Analyst</strong>, <em>Santander</em> (Sep 2018 – Mar 2019) 
  * <strong>Apprentice Innovation Consultant</strong>, <em>Santander</em> (Mar 2018 – Sep 2018)    
- * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018)    
+ * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018)***
 
 ### Flooz (Remote)
 ***Full-time***\
