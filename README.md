@@ -124,7 +124,7 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
 ### Santander
 ***(Sep 2017 - Mar 2022)***\
 ***Technology Degree Apprentice***\
-***Milton Keynes & London***
+**Milton Keynes & London**
 * Apprentice Front-End Engineer – Continuous Governance Team (Milton Keynes) & Innovation Hub (London)
   * Worked on the development of the innovation hubs internal learning and mentoring platform. Which generated an increase in upskilling among technical colleagues and active collaboration for over 250 engineers within the UK.
   * Worked on front end tasks using Angular and TypeScript which resulted in an improved user experience and user interface for the internal governance platform for the over 30 product teams within the bank.
