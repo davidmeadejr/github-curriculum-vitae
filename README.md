@@ -134,7 +134,7 @@ Summaries of solo and collaborative projects. For a complete list, click here �
 
 ### 🏦 Santander
 ***(Sep 2017 - Mar 2022)***\
-***Technology Degree Apprentice***\
+***Software Engineering Degree Apprentice***\
 **Milton Keynes & London**
 * Apprentice Front-End Engineer – Continuous Governance Team (Milton Keynes) & Innovation Hub (London)
   * Worked on the development of the innovation hubs internal learning and mentoring platform. Which generated an increase in upskilling among technical colleagues and active collaboration for over 250 engineers within the UK.
