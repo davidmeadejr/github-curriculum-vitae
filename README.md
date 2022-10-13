@@ -137,6 +137,23 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
   * Lead the organisation of and facilitated 2 internal events in Milton Keynes and Leicester. Promoting data science along with design and collaboration while in the innovation hub. With over 40 colleagues in attendance on both occasions.
   * Created inventories for all traceability documentation and systems lists resulting in a new organised and accessible data management system used by senior management within the Chief Data Office.
 
+## 👨🏾‍🎓 Education
+
+### Encode Club\
+Solidity Bootcamp\
+(Sep 2022 – Oct 2022)
+
+### Makers Academy\
+Software Engineering Bootcamp\
+(Jun 2022 – Oct 2022)
+
+### BPP University\
+BSc Digital and Technology Solutions, Computer Software Engineering\
+(Sep 2017 – Mar 2021)
+
+### The London Institute of Banking & Finance
+Diploma in Financial Studies (DipFS)
+(Issued Aug 2017. No Expiration Date)
 
 
 **📊 GitHub Stats**
