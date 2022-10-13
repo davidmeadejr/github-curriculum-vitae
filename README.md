@@ -20,6 +20,7 @@
 ---
 
  ## 🔎 About
+ ---
 
 Selected as one of 14 out of over 900 applicants to join Santander UK on the 2017 Technology Degree Apprenticeship program. Obtained a diploma in Financial Studies (DipFS) and was offered a scholarship to study at The London Institute of Banking and Finance in the same year.
 
