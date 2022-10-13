@@ -79,6 +79,8 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
 
 
 ---
+**📈 Value**
+---
 
 **👣 Footprints**
  * <strong>Trainee Solidity Engineer</strong>, <em>Encode Club</em> (Sept 2022 – Oct 2022)
