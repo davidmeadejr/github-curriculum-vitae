@@ -94,7 +94,15 @@ Click here →  &nbsp;
 
 ## 📈 Value
 
-* (TODO)
+* Problem Solver (First principles)
+  * 
+
+* Autodidact (Self-learner)
+  *
+
+* Builder (Doer)
+  *
+
 
 <!-- **👣 Footprints**
  * <strong>Trainee Solidity Engineer</strong>, <em>Encode Club</em> (Sept 2022 – Oct 2022)
