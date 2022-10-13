@@ -115,11 +115,20 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
 
 ### Astra 
 ***(Oct 2021 - Apr 2022)***\
-***Front-End Engineer***\
+***Freelance Front-End Engineer***\
 **Remote**
 * Lead the front-end development for the version one website using React and TypeScript of the Astra metaverse game for the community of over 15’000. Which was used as part of the pitch to VC’s and as a result led to the company being backed by 2 additional venture capital firms.
 * Lead the research on the NFT space on the Solana blockchain.  Where I presented findings to the CEO and Head of Design. Highlighting the current NFT landscape for the year 2021 and the near future. Proposing how to successfully launch a NFT project on the Solana blockchain. These findings resulted in the “Rodheads” NFT project being conceptualised.
-* Lead the development of the Rodheads NFT project and website using React, TypeScript and Rust. Generated 2440 Dennis Rodman inspired “Rodheads” to be minted on the Solana blockchain which were pitched to Dennis Rodman and his team.   
+* Lead the development of the Rodheads NFT project and website using React, TypeScript and Rust. Generated 2440 Dennis Rodman inspired “Rodheads” to be minted on the Solana blockchain which were pitched to Dennis Rodman and his team. 
+
+### Santander
+***(Seo 2017 - Mar 2022)***\
+***Technology Degree Apprentice***
+***Milton Keynes & London***
+* Apprentice Front-End Engineer – Continuous Governance Team (Milton Keynes) & Innovation Hub (London)
+  * Worked on the development of the innovation hubs internal learning and mentoring platform. Which generated an increase in upskilling among technical colleagues and active collaboration for over 250 engineers within the UK.
+  * Worked on front end tasks using Angular and TypeScript which resulted in an improved user experience and user interface for the internal governance platform for the over 30 product teams within the bank.
+
 
 
 **📊 GitHub Stats**
