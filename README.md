@@ -81,7 +81,7 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
 <code><img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=6DA55F"/></code>
 
 ## 🧱 Projects
-Summaries of solo and collaborative projects. For a complete list, click here. → 
+Summaries of solo and collaborative projects. For a complete list, click here → 
 <a href="[https://github.com/davidmeadejr?tab=repositories](https://github.com/davidmeadejr?tab=repositories)">
 <code><img src="https://img.shields.io/badge/-GitHub%20Repo%20List-000000?style=flat&logo=github&logoColor=ffffff" /></code>
 </a>
