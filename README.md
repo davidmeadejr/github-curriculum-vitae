@@ -103,6 +103,19 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
 
 ---
 
+## Experience
+
+### 👣 Footprints
+ * <strong>Trainee Solidity Engineer</strong>, <em>Encode Club</em> (Sept 2022 – Oct 2022)
+ * <strong>Trainee Full-Stack Software Engineer</strong>, <em>Makers Academy</em> (Jun 2022 – Oct 2022)
+ * <strong>Software Engineer</strong>, <em>Flooz</em> (Mar 2022 –  May 2022) 
+ * <strong>Freelance Front-End Engineer</strong>, <em>Thrill Digital</em> (Oct 2021 –  Apr 2022)   
+ * <strong>Apprentice Front-End Engineer</strong>, <em>Santander</em> (Mar 2019 – Feb 2022)  
+ * <strong>Apprentice Cyber Security Analyst</strong>, <em>Santander</em> (Sep 2018 – Mar 2019) 
+ * <strong>Apprentice Innovation Consultant</strong>, <em>Santander</em> (Mar 2018 – Sep 2018)    
+ * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018)    
+
+
 **📊 GitHub Stats**
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmeadejr&theme=matrix&margin-w=15&margin-h=15&column=7" alt="davidmeadejr" /></a> </p> -->
