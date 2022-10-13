@@ -122,12 +122,20 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
 * Lead the development of the Rodheads NFT project and website using React, TypeScript and Rust. Generated 2440 Dennis Rodman inspired “Rodheads” to be minted on the Solana blockchain which were pitched to Dennis Rodman and his team. 
 
 ### Santander
-***(Seo 2017 - Mar 2022)***\
+***(Sep 2017 - Mar 2022)***\
 ***Technology Degree Apprentice***\
 ***Milton Keynes & London***
 * Apprentice Front-End Engineer – Continuous Governance Team (Milton Keynes) & Innovation Hub (London)
   * Worked on the development of the innovation hubs internal learning and mentoring platform. Which generated an increase in upskilling among technical colleagues and active collaboration for over 250 engineers within the UK.
   * Worked on front end tasks using Angular and TypeScript which resulted in an improved user experience and user interface for the internal governance platform for the over 30 product teams within the bank.
+
+* Apprentice Cyber Security Analyst – Cyber Defence Centre (Milton Keynes)
+  * Lead the monitoring and reporting of the organisations suspect mailbox regarding all suspicious emails for over 20’000 employees internally and externally within the UK.
+  * Conducted data analysis using Palantir within the Cyber Defence Centre.
+
+* Apprentice Business Consultant – Innovation Hub (London) & Chief Data Office (Milton Keynes)
+  * Lead the organisation of and facilitated 2 internal events in Milton Keynes and Leicester. Promoting data science along with design and collaboration while in the innovation hub. With over 40 colleagues in attendance on both occasions.
+  * Created inventories for all traceability documentation and systems lists resulting in a new organised and accessible data management system used by senior management within the Chief Data Office.
 
 
 
