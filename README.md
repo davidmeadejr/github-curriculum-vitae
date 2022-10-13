@@ -94,13 +94,13 @@ Click here →  &nbsp;
 
 ## 📈 Value
 
-* Problem Solver (First principles)
+* Problem Solver (First principles)\
   * 
 
-* Autodidact (Self-learner)
+* Autodidact (Self-learner)\
   *
 
-* Builder (Doer)
+* Builder (Doer)\
   *
 
 
