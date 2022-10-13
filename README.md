@@ -27,7 +27,7 @@ A BSc Digital & Technology Solutions, Computer Software Engineering graduate.
 
 Received a fully funded scholarship to study a full-stack software engineering bootcamp at Makers Academy. Which teaches an industry-led, language agnostic curriculum. A full-stack engineer on 3 group projects using JavaScript; an Airbnb clone, a Facebook clone and a final project. Where I utilised agile methodologies, TDD, pair-programming and conducted meetings as a scrum master. Final project was a react native mobile app called Divvy. Built using JavaScript that enables users to digitise a picture of a receipt and easily split the bill among friends when eating out.
 
-Over 5 years of technical experience in the FinTech industry and working with web3 start-ups. Great communication, interpersonal and organisation skills with over 5 years of experience in sales. A highly motivated and focused individual passionate about entrepreneurship, product design and blockchain technology.
+Over 5 years of technical experience in the FinTech industry and working with web3 start-ups combined. Great communication, interpersonal and organisation skills with over 5 years of experience in sales. A highly motivated and focused individual passionate about entrepreneurship, product design and blockchain technology.
 
 <!--  ---
 
