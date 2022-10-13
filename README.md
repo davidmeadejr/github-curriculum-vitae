@@ -103,7 +103,7 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### 👣 Footprints
  * <strong>Trainee Solidity Engineer</strong>, <em>Encode Club</em> (Sept 2022 – Oct 2022)
@@ -114,6 +114,14 @@ External curriculum vitae can be found <strong><a href="https://github.com/david
  * <strong>Apprentice Cyber Security Analyst</strong>, <em>Santander</em> (Sep 2018 – Mar 2019) 
  * <strong>Apprentice Innovation Consultant</strong>, <em>Santander</em> (Mar 2018 – Sep 2018)    
  * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018)    
+
+### Flooz (Remote)
+***Full-time***
+***Software Engineer***
+•	Employee No. 27 at Flooz.
+•	Updated the Swap Embedded Widget using TypeScript which enables user-friendly and smooth trading functionality. That several token partners now use on their website. Resulting in their users having a smoother trading experience.
+•	Used Next.js and TypeScript to implement functionality related to the navigation and user interface on the flooz.trade app. Which resulted in a new modern user experience and interface for the community of over 40’000 users.
+
 
 
 **📊 GitHub Stats**
