@@ -58,8 +58,10 @@ Frameworks: <code><img src="https://img.shields.io/badge/-Next.js-000000?style=f
 <code><img src="https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&logoColor=03AABF" /></code>
 <br /> 
 <br /> 
-Database Management: <code><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=326292"></code>
-<code><img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=00ee65"></code>
+NoSQL Databases: <code><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=326292"></code>
+<br /> 
+<br />
+Relational Databases: <code><img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=00ee65"></code>
 <br /> 
 <br />
 Testing:  <code><img src="https://img.shields.io/badge/-Jest-000000?&style=flat&logo=jest&logoColor=c21325"/></code>
