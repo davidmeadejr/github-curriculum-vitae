@@ -21,7 +21,6 @@
 </div>
 
 <div align="center">
-   &nbsp;
 [About](#About) | [Tech Stack](#💻 Tech Stack) | [Projects](#Projects) | [Value](#Value) | [LinkedIn](https://www.linkedin.com/in/jack-overton-40b7931a2/)
 </div>
 
