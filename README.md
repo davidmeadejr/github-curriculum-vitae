@@ -21,8 +21,8 @@
 </div>
 
 <div align="center">
- 
-[Projects](#Projects-Section) | [About](#About) | [Tech Stack](#Tech Stack) | [Projects](#Projects) | [Value](#Value) | [LinkedIn](https://www.linkedin.com/in/jack-overton-40b7931a2/)
+   &nbsp;
+[About](#🔎 About) | [Tech Stack](#💻 Tech Stack) | [Projects](#Projects) | [Value](#Value) | [LinkedIn](https://www.linkedin.com/in/jack-overton-40b7931a2/)
 </div>
 
  ## 🔎 About
