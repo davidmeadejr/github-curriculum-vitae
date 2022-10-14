@@ -173,7 +173,7 @@ Click here →  &nbsp;
   * (Issued Aug 2017. No Expiration Date)
   
  ## 🌍 Extra-Curricular Activities
-* Competing: hackathons, amateur boxing, football, running and chess.
+* Competing: amateur boxing, football, running and chess.
 * Reading fiction: Japanese comics.
 * Reading non-fiction: maths, philosophy, investing and blockchain technology.
 
