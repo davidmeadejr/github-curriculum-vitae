@@ -10,7 +10,7 @@
 <code><img src="https://img.shields.io/badge/-Contact-000000?style=flat&logo=gmail&logoColor=DB4437" /></code>
 </a>
   &nbsp;
-<a href="[https://github.com/davidmeadejr/github-curriculum-vitae]([https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/curriculum-vitae.pdf](https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae.pdf))">
+<a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae.pdf">
 <code><img src="https://img.shields.io/badge/-External%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=ffffff" /></code>
 </a>
   &nbsp;
