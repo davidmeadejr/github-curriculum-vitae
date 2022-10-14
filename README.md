@@ -137,7 +137,7 @@ Click here →  &nbsp;
 * Updated the Swap Embedded Widget using TypeScript which enables user-friendly and smooth trading functionality. That several token partners now use on their website. Resulting in their users having a smoother trading experience.
 * Used Next.js and TypeScript to implement functionality related to the navigation and user interface on the flooz.trade app. Which resulted in a new modern user experience and interface for the community of over 40’000 users.
 
-### 🌐 Astra 
+### 🌐 Astraverse.xyz
 ***(Oct 2021 - Apr 2022)***\
 ***Freelance Front-End Engineer***\
 **Remote**
