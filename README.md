@@ -133,47 +133,37 @@ Click here →  &nbsp;
 ***(Sep 2017 - Mar 2022)***\
 ***Software Engineer***\
 **Remote**
-* Employee No. 27 at Flooz.
-* Updated the Swap Embedded Widget using TypeScript which enables user-friendly and smooth trading functionality. That several token partners now use on their website. Resulting in their users having a smoother trading experience.
-* Used Next.js and TypeScript to implement functionality related to the navigation and user interface on the flooz.trade app. Which resulted in a new modern user experience and interface for the community of over 40’000 users.
+* Developed the navigation UI on the Flooz Trade app improving trading UX for 40’000+ users with TypeScript and Next.js, the framework I picked up within a month.
+* Developed the Swap Embedded Widget that improves trading UX for partners using TypeScript.
 
 ### 🌐 Astraverse.xyz
 ***(Oct 2021 - Apr 2022)***\
 ***Freelance Front-End Engineer***\
 **Remote**
-* Lead the front-end development for the version one website using React and TypeScript of the Astra metaverse game for the community of over 15’000. Which was used as part of the pitch to VC’s and as a result led to the company being backed by 2 additional venture capital firms.
-* Lead the research on the NFT space on the Solana blockchain.  Where I presented findings to the CEO and Head of Design. Highlighting the current NFT landscape for the year 2021 and the near future. Proposing how to successfully launch a NFT project on the Solana blockchain. These findings resulted in the “Rodheads” NFT project being conceptualised.
-* Lead the development of the Rodheads NFT project and website using React, TypeScript and Rust. Generated 2440 Dennis Rodman inspired “Rodheads” to be minted on the Solana blockchain which were pitched to Dennis Rodman and his team. 
+* Led the front-end development for the v1 website using React for the first time which led to the company being backed by 2 additional venture capital firms.
+* Led the research on the NFT space on the Solana blockchain where my findings led to the initial creation of the Rodheads NFT project.
+* Developed the Rodheads NFT project where I figured out how to generate 2440 Dennis Rodman inspired NFTs in a week using React, TypeScript, Rust and the Solana ecosystem.
 
 ### 🏦 Santander
 ***(Sep 2017 - Mar 2022)***\
 ***Software Engineering Degree Apprentice***\
 **Milton Keynes & London**
-* Apprentice Front-End Engineer – Continuous Governance Team (Milton Keynes) & Innovation Hub (London)
-  * Worked on the development of the innovation hubs internal learning and mentoring platform. Which generated an increase in upskilling among technical colleagues and active collaboration for over 250 engineers within the UK.
-  * Worked on front end tasks using Angular and TypeScript which resulted in an improved user experience and user interface for the internal governance platform for the over 30 product teams within the bank.
-
-* Apprentice Cyber Security Analyst – Cyber Defence Centre (Milton Keynes)
-  * Lead the monitoring and reporting of the organisations suspect mailbox regarding all suspicious emails for over 20’000 employees internally and externally within the UK.
-  * Conducted data analysis using Palantir within the Cyber Defence Centre.
-
-* Apprentice Business Consultant – Innovation Hub (London) & Chief Data Office (Milton Keynes)
-  * Lead the organisation of and facilitated 2 internal events in Milton Keynes and Leicester. Promoting data science along with design and collaboration while in the innovation hub. With over 40 colleagues in attendance on both occasions.
-  * Created inventories for all traceability documentation and systems lists resulting in a new organised and accessible data management system used by senior management within the Chief Data Office.
+* Developed the internal learning and mentoring platforms front-end which was used by over 250 engineers within the UK using Angular and TypeScript.
+* Developed the internal product team board which improved the UX for 30 teams using Angular and TypeScript.
 
 ## 👨🏾‍🎓 Education
 
 * ### Encode Club
-  * Solidity Bootcamp
-  * (Sep 2022 – Oct 2022)
+  * Solidity Bootcamp (Sep 2022 – Oct 2022)
+  * Relevant Coursework: Build a dApp, Interacting with Interfaces and Smart Contracts.
 
 * ### Makers Academy
-  * Software Engineering Bootcamp
-  * (Jun 2022 – Oct 2022)
+  * Full-Stack Software Engineering Bootcamp (Jun 2022 – Oct 2022)
+  * Relevant Coursework: Testing, Databases, Servers and JavaScript.
 
 * ### BPP University
-  * BSc Digital and Technology Solutions, Computer Software Engineering
-  * (Sep 2017 – Mar 2021)
+  * Bachelor of Science, Digital and Technology Solution (Sep 2017 – Mar 2021)
+  * Relevant Coursework: Programming in Python, OOP in Java, Agile, and Web App Development.
 
 * ### The London Institute of Banking & Finance
   * Diploma in Financial Studies (DipFS)
