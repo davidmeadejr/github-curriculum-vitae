@@ -154,15 +154,18 @@ Click here →  &nbsp;
 ## 👨🏾‍🎓 Education
 
 * ### Encode Club
-  * Solidity Bootcamp (Sep 2022 – Oct 2022)
+  * Solidity Bootcamp 
+  * (Sep 2022 – Oct 2022)
   * Relevant Coursework: Build a dApp, Interacting with Interfaces and Smart Contracts.
 
 * ### Makers Academy
-  * Full-Stack Software Engineering Bootcamp (Jun 2022 – Oct 2022)
+  * Full-Stack Software Engineering Bootcamp 
+  * (Jun 2022 – Oct 2022)
   * Relevant Coursework: Testing, Databases, Servers and JavaScript.
 
 * ### BPP University
-  * Bachelor of Science, Digital and Technology Solution (Sep 2017 – Mar 2021)
+  * Bachelor of Science, Digital and Technology Solution 
+  * (Sep 2017 – Mar 2021)
   * Relevant Coursework: Programming in Python, OOP in Java, Agile, and Web App Development.
 
 * ### The London Institute of Banking & Finance
