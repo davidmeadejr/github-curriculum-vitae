@@ -23,7 +23,7 @@
 
 <div align="center">
  
-[About](#-about) | [Tech Stack](#-tech-stack) | [Projects](#-Projects) | [Value](#-value) | [Experience](#-experience) | [Education](#-education) | [Writings (WIP)](https://mirror.xyz/davidmeadejr.eth/subscribe) | [🖖](https://y.at/♟️🚫🏁❗)
+[About](#-about) | [Tech Stack](#-tech-stack) | [Projects](#-Projects) | [Value](#-value) | [Experience](#-experience) | [Education](#-education) | [Writings (WIP)](https://mirror.xyz/davidmeadejr.eth/subscribe) | [Hobbies](#-extra-curricular-activities)
 </div>
 
  ## 🔎 About
@@ -178,6 +178,11 @@ Click here →  &nbsp;
 * ### The London Institute of Banking & Finance
   * Diploma in Financial Studies (DipFS)
   * (Issued Aug 2017. No Expiration Date)
+  
+ ## 🌍 Extra-Curricular Activities
+* Competing: hackathons, amateur boxing, football, running and chess.
+* Reading fiction: Japanese comics.
+* Reading non-fiction: maths, philosophy, investing and blockchain technology.
 
 
 <!-- **📊 GitHub Stats**
