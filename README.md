@@ -23,7 +23,7 @@
 
 <div align="center">
  
-[About](#-about) | [Tech Stack](#-tech-stack) | [Projects](#-Projects) | [Value](#-value) | [Experience](#-experience) | [Education](#-education) | [🖖](https://y.at/♟️🚫🏁❗) | [Extra-Curricular Activities](#-extra-curricular-activities)
+[About](#-about) | [Tech Stack](#-tech-stack) | [Projects](#-Projects) | [Value](#-value) | [Experience](#-experience) | [🖖](https://y.at/♟️🚫🏁❗) | [Extra-Curricular Activities](#-extra-curricular-activities) |[Education](#-education) 
 </div>
 
  ## 🔎 About
