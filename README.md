@@ -23,7 +23,7 @@
 
 <div align="center">
  
-[About](#-about) | [Tech Stack](#-tech-stack) | [Projects](#-Projects) | [Value](#-value) | [Experience](#-experience) | [Education](#-education) | [Writings (WIP)](https://mirror.xyz/davidmeadejr.eth/subscribe) | [Hobbies](#-extra-curricular-activities)
+[About](#-about) | [Tech Stack](#-tech-stack) | [Projects](#-Projects) | [Value](#-value) | [Experience](#-experience) | [Education](#-education) | [Writings (WIP)](https://mirror.xyz/davidmeadejr.eth/subscribe) | [Extra-Curricular Activities](#-extra-curricular-activities)
 </div>
 
  ## 🔎 About
