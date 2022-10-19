@@ -159,24 +159,26 @@ I also enjoy building with like-minded individuals. So you can often find me par
 
 ## 👨🏾‍🎓 Education
 
-* ### Encode Club
-  * Solidity Bootcamp 
-  * (Sep 2022 – Oct 2022)
-  * Relevant Coursework: Build a dApp, Interacting with Interfaces and Smart Contracts.
-
-* ### Makers Academy
-  * Full-Stack Software Engineering Bootcamp 
-  * (Jun 2022 – Oct 2022)
-  * Relevant Coursework: Testing, Databases, Servers and JavaScript.
-
 * ### BPP University
   * Bachelor of Science, Digital and Technology Solutions
   * (Sep 2017 – Mar 2021)
   * Relevant Coursework: Programming in Python, OOP in Java, Agile, and Web App Development.
 
-* ### The London Institute of Banking & Finance
-  * Diploma in Financial Studies (DipFS)
-  * (Issued Aug 2017. No Expiration Date)
+* ### Professional Training 
+  * ### Encode Club
+    * Solidity Bootcamp 
+    * (Sep 2022 – Oct 2022)
+    * Relevant Coursework: Build a dApp, Interacting with Interfaces and Smart Contracts.
+
+  * ### Makers Academy
+    * Full-Stack Software Engineering Bootcamp 
+    * (Jun 2022 – Oct 2022)
+    * Relevant Coursework: Testing, Databases, Servers and JavaScript.
+
+
+  * ### The London Institute of Banking & Finance
+    * Diploma in Financial Studies (DipFS)
+    * (Issued Aug 2017. No Expiration Date)
   
  ## 🌍 Extra-Curricular Activities
 * Competing: amateur boxing, football, running and chess.
