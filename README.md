@@ -101,7 +101,7 @@ I Consider myself a autodidact. As I did not take the conventional route of lear
 
 In addition to this, while in the web3 space I was exposed to multiple technologies. Such as React, Solidity and Rust. Which I taught myself on the job. Most notably builing an initial NFT project POC pitched to Dennis Rodman with these tools. The promotional video of the NFTs I generated can be found here → <a href="https://twitter.com/ThrillDAO/status/1470752410771595265">
 Rodheads
-</a>
+</a>.
 
 
 
