@@ -135,8 +135,8 @@ I also enjoy building with like-minded individuals. So you can often find me par
  * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018) -->
 
 
-<a href="https://docs.flooz.trade/">
-### 🌐 Flooz Inc.
+<a href="https://docs.flooz.trade/" style="font-size: x-large">
+🌐 Flooz Inc.
 </a>
 ***(Sep 2017 - Mar 2022)***\
 ***Software Engineer***\
