@@ -136,7 +136,7 @@ I also enjoy building with like-minded individuals. So you can often find me par
 
 
 ### 🌐 Flooz Inc.
-***(Sep 2017 - Mar 2022)***\
+***Mar 2022 - June 2022 (3 months)***\
 ***Software Engineer***\
 **Remote**
 * Improved the trading UX on the Flooz Trade v2 app. Which helped increase traffic and trading volume. By developing the navigation UI with Next.js and TypeScript.
@@ -144,7 +144,7 @@ I also enjoy building with like-minded individuals. So you can often find me par
 * Upgraded the “swap token” UX for token partners. Improving the trading volume on their platforms. By modifying the swap embedded widget plugin using TypeScript. 
 
 ### 🌐 Astra
-***(Oct 2021 - Apr 2022)***\
+***Oct 2021 - Apr 2022 (6 months)***\
 ***Freelance Front-End Engineer***\
 **Remote**
 * Helped Astra gain 2 more venture capital firms as investors and advisors. Which provided an extra £10k of capital for the start-up. By leading the front-end development for the v1 website using React. Used as part of the pitch deck and demo to VCs.
@@ -152,7 +152,7 @@ I also enjoy building with like-minded individuals. So you can often find me par
 * Generated 2440 Denis Rodman inspired NFTs called "Rodheads". For the Astra NFT project. Which the CEO backed because of my research on the NFT space on the Solana blockchain. Developed using React, TypeScript, Rust and Solana.
 
 ### 🏦 Santander UK
-***(Sep 2017 - Mar 2022)***\
+***Sep 2017 - Mar 2022***\
 ***Software Engineering Degree Apprentice***\
 **Milton Keynes & London**
 * Programmed the internal learning and mentoring platforms front-end. Which grew to 250+ engineers as users. Built using Angular and TypeScript.
