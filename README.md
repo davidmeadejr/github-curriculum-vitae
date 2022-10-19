@@ -93,7 +93,10 @@ Click here →  &nbsp;
 
 
 * ### Autodidact (Self-Learner)
-Consider myself a autodidact. As I did not take the conventional route of learning computer science by going to university. In 2017, I was awarded one of 14 positions in Santander's 2017 Technology Degree Apprenticeship program. For high-achieving, diverse talent out of more than 900 applications nationwide. Where I programmed the internal learning and mentoring platform. Which grew to 250+ engineers as users. Along with improving the UX for 30 internal product teams. In both cases, learning TypeScript and Angular on the job. In addition to this, while in the web3 space I was exposed to multiple technologies. Such as React, Solidity and Rust. Which I taught myself on the job. Most notably builing an initial NFT project POC pitched to Dennis Rodman with these tools. The promotional video of the NFTs I generated can be found here → <a href="https://twitter.com/ThrillDAO/status/1470752410771595265">
+* 
+I Consider myself a autodidact. As I did not take the conventional route of learning computer science by going to university. In 2017, I was awarded one of 14 positions in Santander's 2017 Technology Degree Apprenticeship program. For high-achieving, diverse talent out of more than 900 applications nationwide. Where I programmed the internal learning and mentoring platform. Which grew to 250+ engineers as users. Along with improving the UX for 30 internal product teams. In both cases, learning TypeScript and Angular on the job. 
+
+In addition to this, while in the web3 space I was exposed to multiple technologies. Such as React, Solidity and Rust. Which I taught myself on the job. Most notably builing an initial NFT project POC pitched to Dennis Rodman with these tools. The promotional video of the NFTs I generated can be found here → <a href="https://twitter.com/ThrillDAO/status/1470752410771595265">
 <code>✨
 </a></code>
 </a>
