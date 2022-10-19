@@ -106,7 +106,7 @@ Rodheads
 
 * ### Builder (Proactive)
 
-Adaptive and versatile, with over 4.5 and 1+ years of technical experience in FinTech and web3. Having worked for two web3 start-ups helping build metaverse and DeFi products. I have delivered consistently excellent results for start-ups and established, globally operating corporates. Well-qualified and a life-long builder who enjoys building things people want but they do not know how to get. See project <a href="https://github.com/davidmeadejr/divvy-app"> Divvy</a>. A bill-splitting iOS app where I learned react-native in less than 2 weeks to build out the front-end. Demoed to over 80 attendees at the Makers Academy demo day.
+Adaptive and versatile, with over 4.5 and 1+ years of technical experience in FinTech and web3. Having worked for two web3 start-ups helping build metaverse and DeFi products. I have delivered consistently excellent results for start-ups and established, globally operating corporates. Well-qualified and a life-long builder who enjoys building things people want but they do not know how to get. See project <a href="https://github.com/davidmeadejr/divvy-app"> Divvy</a>. A bill-splitting iOS app where I learned react-native in less than 2 weeks to build out the front-end. Which was demoed to over 80 attendees at the Makers Academy final project demo day.
 
 I also enjoy building with like-minded individuals. So you can often find me participating in hackathons. Most notably, beeing selected as one of 30 out of over 100+ applicants. As one of the best and brightest underrepresented minds in the United Kingdom. To solve tech challenges at Google’s London Headquarters in October 2022.
 
