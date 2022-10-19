@@ -106,7 +106,7 @@ Rodheads
 
 * ### Builder (Proactive)
 
-Adaptive and versatile, with over 4.5 and 1+ years of technical experience in FinTech and web3. Having worked for two web3 start-ups helping build metaverse and DeFi products. I have delivered consistently excellent results for start-ups and established, globally operating corporates. Well-qualified and a life-long builder who enjoys building things people want but they don't know how to get. Most notably, selected as one of 30 out of over 100+ applicants. As one of the best and brightest underrepresented minds in the United Kingdom. To solve tech challenges at Google’s London Headquarters
+Adaptive and versatile, with over 4.5 and 1+ years of technical experience in FinTech and web3. Having worked for two web3 start-ups helping build metaverse and DeFi products. I have delivered consistently excellent results for start-ups and established, globally operating corporates. Well-qualified and a life-long builder who enjoys building things people want but they do not know how to get. Most notably, selected as one of 30 out of over 100+ applicants. As one of the best and brightest underrepresented minds in the United Kingdom. To solve tech challenges at Google’s London Headquarters
 
 
 <!-- **👣 Footprints**
