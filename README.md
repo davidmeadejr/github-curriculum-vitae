@@ -183,7 +183,7 @@ I also enjoy building with like-minded individuals. So you can often find me par
     * (Issued Aug 2017. No Expiration Date)
   
  ## 🌍 Extra-Curricular Activities
-* Competing: amateur boxing, football, running and chess.
+* Sports: amateur boxing, football and running.
 * Reading fiction: Japanese comics.
 * Reading non-fiction: maths, philosophy, investing and blockchain technology.
 
