@@ -139,30 +139,32 @@ I also enjoy building with like-minded individuals. So you can often find me par
 ***(Sep 2017 - Mar 2022)***\
 ***Software Engineer***\
 **Remote**
-* Developed the navigation UI on the Flooz Trade app improving trading UX for 40’000+ users with TypeScript and Next.js, the framework I picked up within a month.
-* Developed the Swap Embedded Widget that improves trading UX for partners using TypeScript.
+* Improved the trading UX on the Flooz Trade v2 app. Which helped increase traffic and trading volume. By developing the navigation UI with Next.js and TypeScript.
+
+* Upgraded the “swap token” UX for token partners. Improving the trading volume on their platforms. By modifying the swap embedded widget plugin using TypeScript. 
 
 ### 🌐 Astra
 ***(Oct 2021 - Apr 2022)***\
 ***Freelance Front-End Engineer***\
 **Remote**
-* Led the front-end development for the v1 website using React for the first time which led to the company being backed by 2 additional venture capital firms.
-* Led the research on the NFT space on the Solana blockchain where my findings led to the initial creation of the Rodheads NFT project.
-* Developed the Rodheads NFT project where I figured out how to generate 2440 Dennis Rodman inspired NFTs in a week using React, TypeScript, Rust and the Solana ecosystem.
+* Helped Astra gain 2 more venture capital firms as investors and advisors. Which provided an extra £10k of capital for the start-up. By leading the front-end development for the v1 website using React. Used as part of the pitch deck and demo to VCs.
+
+* Generated 2440 Denis Rodman inspired NFTs called "Rodheads". For the Astra NFT project. Which the CEO backed because of my research on the NFT space on the Solana blockchain. Developed using React, TypeScript, Rust and Solana.
 
 ### 🏦 Santander UK
 ***(Sep 2017 - Mar 2022)***\
 ***Software Engineering Degree Apprentice***\
 **Milton Keynes & London**
-* Developed the internal learning and mentoring platforms front-end which was used by over 250 engineers within the UK using Angular and TypeScript.
-* Developed the internal product team board which improved the UX for 30 teams using Angular and TypeScript.
+* Programmed the internal learning and mentoring platforms front-end. Which grew to 250+ engineers as users. Built using Angular and TypeScript.
+
+* Improved the UX for 30 internal product teams. By upgrading the internal products team board using Angular and TypeScript.
 
 ## 👨🏾‍🎓 Education
 
 * ### BPP University
   * Bachelor of Science, Digital and Technology Solutions
   * (Sep 2017 – Mar 2021)
-  * Relevant Coursework: Programming in Python, OOP in Java, Agile, and Web App Development.
+  * Relevant Coursework: Programming in Python, Object-Oriented Programming in Java, IS Security and Risk Management, Web Development
 
 * ### Professional Training 
   * ### Encode Club
@@ -173,7 +175,7 @@ I also enjoy building with like-minded individuals. So you can often find me par
   * ### Makers Academy
     * Full-Stack Software Engineering Bootcamp 
     * (Jun 2022 – Oct 2022)
-    * Relevant Coursework: Testing, Databases, Servers and JavaScript.
+    * Relevant Coursework: Software Testing, NoSQL & Relational Database Management, Agile Methodologies, Modern JavaScript Programmin
 
 
   * ### The London Institute of Banking & Finance
