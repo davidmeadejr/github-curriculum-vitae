@@ -135,14 +135,15 @@ I also enjoy building with like-minded individuals. So you can often find me par
  * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018) -->
 
 
-### 🌐 Flooz Inc.
+### <a href="https://docs.flooz.trade/">
+🌐 Flooz Inc.</a>
 ***(Sep 2017 - Mar 2022)***\
 ***Software Engineer***\
 **Remote**
 * Developed the navigation UI on the Flooz Trade app improving trading UX for 40’000+ users with TypeScript and Next.js, the framework I picked up within a month.
 * Developed the Swap Embedded Widget that improves trading UX for partners using TypeScript.
 
-### 🌐 Astraverse.xyz
+### 🌐 Astra
 ***(Oct 2021 - Apr 2022)***\
 ***Freelance Front-End Engineer***\
 **Remote**
