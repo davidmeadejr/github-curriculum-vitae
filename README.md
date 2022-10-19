@@ -136,7 +136,7 @@ I also enjoy building with like-minded individuals. So you can often find me par
 
 
 ### 🌐 Flooz Inc.
-***Mar 2022 - June 2022 (3 months)***\
+***Mar 2022 - Jun 2022 (3 months)***\
 ***Software Engineer***\
 **Remote**
 * Improved the trading UX on the Flooz Trade v2 app. Which helped increase traffic and trading volume. By developing the navigation UI with Next.js and TypeScript.
