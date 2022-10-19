@@ -171,7 +171,7 @@ I also enjoy building with like-minded individuals. So you can often find me par
   * Relevant Coursework: Testing, Databases, Servers and JavaScript.
 
 * ### BPP University
-  * Bachelor of Science, Digital and Technology Solution 
+  * Bachelor of Science, Digital and Technology Solutions
   * (Sep 2017 – Mar 2021)
   * Relevant Coursework: Programming in Python, OOP in Java, Agile, and Web App Development.
 
