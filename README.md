@@ -92,7 +92,7 @@ Click here →  &nbsp;
 
 Fundamentally I enjoy the challenge of solving real world problems. Which is what initiallly drew me to software engineering. It has equipped me with the skills to build things people want but do not know how to get. I prefer to think about problems that are related to the barriers between people and technology. Along with how I can leverage my programming skills to help create a seamless digital future. With like-minded individuals. 
 
-My unique experience as a technology degree apprentice. Software engineering bootcamp graduate. Plus, industry experience has been key to my success. Equipping me to work proactively and collaboratively throughout the software development lifecycle. Combining technical aptitude with industry experience. I consistently exceed expectations.
+My unique experience as a technology degree apprentice. Software engineering bootcamp graduate. Plus, industry experience has been key to my success. Equipping me to work proactively and collaboratively throughout the software development lifecycle. Combining technical aptitude with industry experience. I consistently exceed expectations and help build innovative products.
 
 * ### Autodidact (Self-Learner)
 
