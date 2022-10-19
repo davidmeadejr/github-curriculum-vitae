@@ -96,7 +96,7 @@ Click here →  &nbsp;
   *
 
 * ### Builder (Proactive)
-  *
+  * Adaptive and versatile, with over 4.5 and 1+ years of technical experience in FinTech and web3. Having worked for two web3 start-ups helping build metaverse and DeFi products. I have delivered consistently excellent results for start-ups and established, globally operating corporates. Well-qualified, I have a Bachelor of Science in Digital & Technology Solutions. I am a Makers Academy alumnus. A leading software engineering bootcamp which I attended on a full-ride scholarship.
 
 
 <!-- **👣 Footprints**
