@@ -135,9 +135,7 @@ I also enjoy building with like-minded individuals. So you can often find me par
  * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018) -->
 
 
-<a href="https://docs.flooz.trade/" style="font-size: x-large">
-🌐 Flooz Inc.
-</a>
+### 🌐 Flooz Inc.
 ***(Sep 2017 - Mar 2022)***\
 ***Software Engineer***\
 **Remote**
@@ -152,7 +150,7 @@ I also enjoy building with like-minded individuals. So you can often find me par
 * Led the research on the NFT space on the Solana blockchain where my findings led to the initial creation of the Rodheads NFT project.
 * Developed the Rodheads NFT project where I figured out how to generate 2440 Dennis Rodman inspired NFTs in a week using React, TypeScript, Rust and the Solana ecosystem.
 
-### 🏦 Santander
+### 🏦 Santander UK
 ***(Sep 2017 - Mar 2022)***\
 ***Software Engineering Degree Apprentice***\
 **Milton Keynes & London**
