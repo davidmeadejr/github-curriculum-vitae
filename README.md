@@ -188,7 +188,7 @@ I also enjoy building with like-minded individuals so you can often find me part
 
 * ### Professional Training 
   * ### Chainlink
-    * Solidity Bootcamp 
+    * Web3 Bootcamp 
     * (Oct 2022 – Nov 2022)
     * Relevant Coursework: Introduction to Blockchain and Solidity, Oracles, Hardhat Development Environment, Smart Contract Security, Testing Smart Contracts.
 
