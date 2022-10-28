@@ -171,7 +171,7 @@ I also enjoy building with like-minded individuals. So you can often find me par
 * ### BPP University
   * Bachelor of Science, Digital and Technology Solutions
   * (Sep 2017 – Mar 2021)
-  * Relevant Coursework: Programming in Python, Object-Oriented Programming in Java, IS Security and Risk Management, Web Development
+  * Relevant Coursework: Programming in Python, Object-Oriented Programming in Java, IS Security and Risk Management, Web Development.
 
 * ### Professional Training 
   * ### Encode Club
@@ -182,7 +182,7 @@ I also enjoy building with like-minded individuals. So you can often find me par
   * ### Makers Academy
     * Full-Stack Software Engineering Bootcamp 
     * (Jun 2022 – Oct 2022)
-    * Relevant Coursework: Software Testing, NoSQL, Relational Database Management, Agile Methodologies, Modern JavaScript Programming and Algorithmic Complexity.
+    * Relevant Coursework: Software Testing, NoSQL & Relational Database Management, Agile Methodologies, Modern JavaScript Programming, Algorithmic Complexity.
 
 
   * ### The London Institute of Banking & Finance
