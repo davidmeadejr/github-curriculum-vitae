@@ -97,22 +97,19 @@ Click here →  &nbsp;
 
 * ### Problem Solver (First Principles Thinker)
 
-Fundamentally I enjoy the challenge of solving real world problems. Which is what initiallly drew me to software engineering. It has equipped me with the skills to build things people want but do not know how to get. I prefer to think about problems that are related to the barriers between people and technology. Along with how I can leverage my programming skills to help create a seamless digital future. With like-minded individuals. 
+I enjoy the challenge of solving real world problems which is what initiallly drew me to programming. It has enabled me to work proactively and collaboratively across all stages of the software development lifecycle. I prefer to think about problems that are related to the barriers between people and technology. Along with how I can leverage my programming skills to help create a seamless digital future with like-minded individuals. 
 
-Most recently, this was demonstrated in a side project I co-founded called Divvy. Which is an iOS bill-splitting app where I learned React Native and built 8 components along with 6 screens and routing to handle the user flow. It was presented to over 80 attendees at a full-stack software engineering bootcamp demo day. Where it received overwhelmingly positive feedback.
-
-* ### Autodidact (Self-Learner)
-
-I consider myself an autodidact. As I did not take the conventional route of learning computer science by going to university. In 2017, I was awarded one of 14 positions in Santander's 2017 Technology Degree Apprenticeship program. For high-achieving, diverse talent out of more than 900 applications nationwide. Where I programmed the internal learning and mentoring platform. Which grew to 250+ engineers as users. Along with improving the UX for 30 internal product teams. In both cases, learning TypeScript and Angular on the job. 
-
-In addition to this, while in the web3 space I was exposed to multiple technologies. Such as React, Solidity and Rust. Most notably, spearheading the development of the Rodheads NFT project. Where I figured out how to generate 2440 Dennis Rodman inspired NFTs in a week using React, TypeScript, Rust and Solana. This was then used as part of a pitch to Dennis Rodman and his management team. The promotional video of the NFTs I generated can be found here → <a href="https://twitter.com/ThrillDAO/status/1470752410771595265">
+This skill was demonstrated most notably, when I spearheaded the development of the Rodheads NFT project. Where I figured out how to generate 2440 Dennis Rodman inspired NFTs in a week using React, TypeScript, Rust and Solana. This was then used as part of a pitch to Dennis Rodman and his management team. The promotional video of the NFTs I generated can be found here → <a href="https://twitter.com/ThrillDAO/status/1470752410771595265">
 Rodheads</a>.
 
 
+* ### Autodidact (Self-Learner)
+
+I consider myself an autodidact. As I did not take the conventional route of learning computer science by going to university. In 2017, I was awarded one of 14 positions in Santander's 2017 Technology Degree Apprenticeship program. For high-achieving, diverse talent out of more than 900 applications nationwide. Where I programmed the internal learning and mentoring platform. Which grew to 250+ engineers as users. Along with improving the UX for 30 internal product teams. In both cases, teaching myself and learning TypeScript and Angular on the job. 
+
+I also demonstrated this while working on a side project I co-founded called <a href="https://github.com/davidmeadejr/divvy-app"> Divvy</a>. Which is an iOS bill-splitting app where I learned React Native and built 8 components along with 6 screens and routing to handle the user flow. It was presented to over 80 attendees at a full-stack software engineering bootcamp demo day. Where it received overwhelmingly positive feedback.
 
 * ### Builder (Proactive)
-
-Adaptive and versatile, with over 4.5 and 1+ years of technical experience in FinTech and web3. Having worked for two web3 start-ups helping build metaverse and DeFi products. I have delivered consistently excellent results for start-ups and established, globally operating corporates. Well-qualified and a life-long builder who enjoys building things people want but they do not know how to get. See project <a href="https://github.com/davidmeadejr/divvy-app"> Divvy</a>. A bill-splitting iOS app where I learned React Native in less than 2 weeks to build out the front-end. Which was demoed to over 80 attendees at the Makers Academy final project demo day.
 
 I also enjoy building with like-minded individuals. So you can often find me participating in hackathons. Most notably, in 2022 where I was selected as one of 30 out of over 100+ applicants by Google. As one of the UK's best and brightest underrepresented thinkers to participate in a data themed hackathon. Where I co-founded Nudgewell, a personalised money saving and wellness app for homeowners and housemates. Where I created the initial screens and routing using React Native. Along with the functionality for interacting with the apps Python and Django built backend.
 
