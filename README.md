@@ -174,10 +174,10 @@ I also enjoy building with like-minded individuals. So you can often find me par
   * Relevant Coursework: Programming in Python, Object-Oriented Programming in Java, IS Security and Risk Management, Web Development.
 
 * ### Professional Training 
-  * ### Encode Club
+  * ### Chainlink
     * Solidity Bootcamp 
-    * (Sep 2022 – Oct 2022)
-    * Relevant Coursework: Build a dApp, Interacting with Interfaces and Smart Contracts.
+    * (Oct 2022 – Nov 2022)
+    * Relevant Coursework: Introduction to Blockchain and Solidity, Oracles, Hardhat Development Environment, Smart Contract Security, Testing Smart Contract.
 
   * ### Makers Academy
     * Full-Stack Software Engineering Bootcamp 
