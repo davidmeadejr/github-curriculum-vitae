@@ -154,9 +154,11 @@ I also enjoy building with like-minded individuals. So you can often find me par
 ***Oct 2021 - Apr 2022 (6 months)***\
 ***Freelance Front-End Engineer***\
 **Remote**
-* Helped Astra gain 2 more venture capital firms as investors and advisors. Which provided an extra £10k of capital for the start-up. By leading the front-end development for the v1 website using React. Used as part of the pitch deck and demo to VCs.
+* Helped Astra gain 2 more venture capital firms as investors and advisors which provided extra capital for the start-up. 
+  * Where I Ied the front-end development for the v1 website using React which was used as part of the pitch deck and demo to VCs.
 
-* Generated 2440 Denis Rodman inspired NFTs called "Rodheads". For the Astra NFT project. Which the CEO backed because of my research on the NFT space on the Solana blockchain. Developed using React, TypeScript, Rust and Solana.
+* Spearheaded the development of the Rodheads NFT project which was used as part of a pitch to Dennis Rodman and his management team. 
+  * Where I figured out how to generate 2440 Dennis Rodman inspired NFTs in a week using React, TypeScript, Rust and Solana
 
 ### 🏦 Santander UK
 ***Sep 2017 - Mar 2022***\
