@@ -182,7 +182,7 @@ I also enjoy building with like-minded individuals. So you can often find me par
   * ### Makers Academy
     * Full-Stack Software Engineering Bootcamp 
     * (Jun 2022 – Oct 2022)
-    * Relevant Coursework: Software Testing, NoSQL & Relational Database Management, Agile Methodologies, Modern JavaScript Programmin
+    * Relevant Coursework: Software Testing, NoSQL & Relational Database Management, Agile Methodologies, Modern JavaScript Programming, Algorithmic Complexity.
 
 
   * ### The London Institute of Banking & Finance
