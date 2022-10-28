@@ -141,6 +141,16 @@ I also enjoy building with like-minded individuals. So you can often find me par
  * <strong>Apprentice Innovation Consultant</strong>, <em>Santander</em> (Mar 2018 – Sep 2018)    
  * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018) -->
 
+### 🏫 Makers Academy
+***Jun 2022 - Present (4 months)***\
+***Full-Stack Software Engineer in Residence***\
+**Hybrid**
+* Co-founded Divvy, an iOS bill-splitting mobile app. 
+  * Where I built 8 components along with 6 screens and routing to handle the user flow using React Native and JavaScript.
+
+* Developed language agnostic programming expertise building CRUD apps where I wrote TDD code with JavaScript, Ruby and Java.
+* Wrote algorthimic programs in JavaScript in addtion to creating frameworks to time and compare their efficiency. 
+  * As a result, developing proficiency in algorithmic complexity.
 
 ### 🌐 Flooz Inc.
 ***Mar 2022 - Jun 2022 (3 months)***\
