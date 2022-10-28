@@ -177,7 +177,7 @@ I also enjoy building with like-minded individuals. So you can often find me par
   * ### Chainlink
     * Solidity Bootcamp 
     * (Oct 2022 – Nov 2022)
-    * Relevant Coursework: Introduction to Blockchain and Solidity, Oracles, Hardhat Development Environment, Smart Contract Security, Testing Smart Contract.
+    * Relevant Coursework: Introduction to Blockchain and Solidity, Oracles, Hardhat Development Environment, Smart Contract Security, Testing Smart Contracts.
 
   * ### Makers Academy
     * Full-Stack Software Engineering Bootcamp 
