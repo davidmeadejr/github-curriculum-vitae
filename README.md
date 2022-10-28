@@ -105,7 +105,7 @@ Rodheads</a>.
 
 * ### Autodidact (Self-Learner)
 
-I consider myself an autodidact. As I did not take the conventional route of learning computer science by going to university. In 2017, I was awarded one of 14 positions in Santander's 2017 Technology Degree Apprenticeship program. For high-achieving, diverse talent out of more than 900 applications nationwide. Where I programmed the internal learning and mentoring platform. Which grew to 250+ engineers as users. Along with improving the UX for 30 internal product teams. In both cases, teaching myself and learning TypeScript and Angular on the job. 
+I consider myself an autodidact as I did not take the conventional route of learning computer science by going to university. In 2017, I was awarded one of 14 positions in Santander's 2017 Technology Degree Apprenticeship program. For high-achieving, diverse talent out of more than 900 applications nationwide. Where I programmed the internal learning and mentoring platform. Which grew to 250+ engineers as users. Along with improving the UX for 30 internal product teams. In both cases, teaching myself and learning TypeScript and Angular on the job. 
 
 I also demonstrated this while working on a side project I co-founded called <a href="https://github.com/davidmeadejr/divvy-app"> Divvy</a>. Which is an iOS bill-splitting app where I learned React Native and built 8 components along with 6 screens and routing to handle the user flow. It was presented to over 80 attendees at a full-stack software engineering bootcamp demo day. Where it received overwhelmingly positive feedback.
 
