@@ -176,7 +176,7 @@ I also enjoy building with like-minded individuals. So you can often find me par
 
 * ### BPP University
   * Bachelor of Science, Digital and Technology Solutions
-  * (Sep 2017 – Mar 2021)
+  * (Sep 2017 – Mar 2022)
   * Relevant Coursework: Programming in Python, Object-Oriented Programming in Java, IS Security and Risk Management, Web Development.
 
 * ### Professional Training 
