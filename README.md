@@ -162,9 +162,11 @@ I also enjoy building with like-minded individuals. So you can often find me par
 ***Sep 2017 - Mar 2022***\
 ***Software Engineering Degree Apprentice***\
 **Milton Keynes & London**
-* Programmed the internal learning and mentoring platforms front-end. Which grew to 250+ engineers as users. Built using Angular and TypeScript.
+* Helped create the internal learning and mentoring platforms front-end using Angular and TypeScript. 
+* As a result, increasing the number of users to more than 250 engineers in the UK. 
+* Using Angular and TypeScript to implement the admin dashboard and profile page navigation UI.
 
-* Improved the UX for 30 internal product teams. By upgrading the internal products team board using Angular and TypeScript.
+* Improved the UX for 30 internal product teams by upgrading the internal products team board using Angular and TypeScript.
 
 ## 👨🏾‍🎓 Education
 
