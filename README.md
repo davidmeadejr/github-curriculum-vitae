@@ -97,7 +97,7 @@ Click here →  &nbsp;
 
 * ### Problem Solver (First Principles Thinker)
 
-I enjoy the challenge of solving real world problems which is what initiallly drew me to programming. It has enabled me to work proactively and collaboratively across all stages of the software development lifecycle. I prefer to think about problems that are related to the barriers between people and technology. Along with how I can leverage my programming skills to help create a seamless digital future with like-minded individuals. 
+I enjoy the challenge of solving real world problems which is what initiallly drew me to programming. It has enabled me to work proactively and collaboratively across all stages of the software development lifecycle to build digital products. I prefer to think about problems that are related to the barriers between people and technology. Along with how I can leverage my programming skills to help create a seamless digital future with like-minded individuals. 
 
 This skill was demonstrated most notably, when I spearheaded the development of the Rodheads NFT project. Where I figured out how to generate 2440 Dennis Rodman inspired NFTs in a week using React, TypeScript, Rust and Solana. This was then used as part of a pitch to Dennis Rodman and his management team. The promotional video of the NFTs I generated can be found here → <a href="https://twitter.com/ThrillDAO/status/1470752410771595265">
 Rodheads</a>.
