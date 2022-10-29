@@ -139,8 +139,8 @@ I also enjoy building with like-minded individuals so you can often find me part
   * Where I built 8 components along with 6 screens and routing to handle the user flow using React Native and JavaScript.
 
 * Developed language agnostic programming expertise building CRUD apps where I wrote TDD code with JavaScript, Ruby and Java.
-* Wrote algorthimic programs in JavaScript in addtion to creating frameworks to time and compare their efficiency. 
-  * As a result, developing proficiency in algorithmic complexity.
+* Wrote algorthimic programs in: JavaScript, TypeScript, Solidity and Rust in addtion to creating frameworks to time and compare their efficiency. 
+  * As a result, developing proficiency in time complexity.
 
 ### 🌐 Flooz Inc.
 ***Mar 2022 - Jun 2022 (3 months)***\
