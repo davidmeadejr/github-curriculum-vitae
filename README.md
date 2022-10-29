@@ -37,7 +37,7 @@ I was awarded one of 14 positions in Santander's 2017 Technology Degree Apprenti
 <br />
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
-## 💻 Tech Stack
+<!-- ## 💻 Tech Stack
 
 Languages: <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code>
 <code><img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript&logoColor=719af4" /></code>
@@ -73,7 +73,7 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
 <code><img src="https://img.shields.io/badge/-Vim-000000?&style=flat&logo=vim&logoColor=12ab00"/></code>
 <code><img src="https://img.shields.io/badge/-Postman-000000?&style=flat&logo=postman&logoColor=FF6C37"/></code>
 <code><img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=6DA55F"/></code>
-<code><img src="https://img.shields.io/badge/-Hardhat-000000?&style=flat&logo=hardhat&logoColor=6DA55F"/></code>
+<code><img src="https://img.shields.io/badge/-Hardhat-000000?&style=flat&logo=hardhat&logoColor=6DA55F"/></code> -->
 
 ## 🧱 Projects
 <!-- Summaries of solo and collaborative projects. For a complete list, click here →  &nbsp;
