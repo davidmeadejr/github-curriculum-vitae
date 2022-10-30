@@ -28,7 +28,7 @@
 
  ## 🔎 About
 
-I was awarded one of 14 positions in Santander's 2017 Technology Degree Apprenticeship program. For high-achieving, diverse talent out of more than 900 applications nationwide. In addtion to being a Diploma in Financial Studies (DipFS) top percentile achiever, I also received a scholarship to study at The London Institute of Banking and Finance. I hold a Bachelor of Science in Digital & Technology Solutions while also gradauting from a full-stack software engineering bootcamp on a full scholarship. I have over 4.5 and 1+ years of technical experience shipping features and products for a globally operating FinTech corporate. Along with web3 start-ups helping build metaverse and DeFi products respectively. I am passionate about entrepreneurship, product design and blockchain technology.
+In 2017, I was one of 14 selected as a Santander Technology Degree Apprentice. A program for high-achieving, diverse talent out of more than 900 applications nationwide. I am a Diploma in Financial Studies (DipFS)  top percentile achiever. As a result, I received a scholarship to study at The London Institute of Banking and Finance. I hold a Bachelor of Science in Digital & Technology Solutions. While also being a full-stack software engineering bootcamp graduate via a full scholarship.  I have over 4.5 years of technical experience for a globally operating FinTech corporate. Along with helping build metaverse and DeFi products at web3 start-ups for over a year. With a proven record of delivering excellent results in both industries. I am passionate about entrepreneurship, product design and blockchain technology.
 
 <!--  ---
 
