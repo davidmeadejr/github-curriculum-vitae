@@ -104,7 +104,8 @@ I also demonstrated this skill while working on a side project I co-founded call
 
 * ### Builder (Proactive)
 
-I also enjoy building with like-minded individuals so you can often find me participating in hackathons. Most notably, in Q4 2022 where I was selected as one of 30 out of over 100+ applicants by Google. As one of the UK's best and brightest underrepresented thinkers to participate in a data themed hackathon. Where I co-founded Nudgewell, a personalised money saving and wellness app for homeowners and housemates. Where I created the initial screens and routing using React Native. Along with the functionality for interacting with the apps Python and Django built backend.
+I am innovative and data-driven with standout complex problem-solving skills. I also enjoy building with like-minded individuals so you can often find me participating in hackathons. Putting these skills to use in 2022 at Google. Where I was one of the top 30 underrepresented thinkers in the UK out of over more than 100 candidates. Where I co-founded Nudgewell, a personalised money-saving and wellness app. Aimed at helping homeowners and housemates during the cost of living crisis. Where I created the initial screens and routing using React Native. While also interacting with the application's backend built with Python and Django.
+
 
 
 <!-- **👣 Footprints**
