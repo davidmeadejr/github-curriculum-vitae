@@ -206,7 +206,7 @@ I am innovative and data-driven with standout complex problem-solving skills. I 
 &nbsp;
 
 
-<!-- **📊 GitHub Stats**
+<!-- **📊 GitHub Statssss**
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmeadejr&theme=matrix&margin-w=15&margin-h=15&column=7" alt="davidmeadejr" /></a> </p> -->
 
