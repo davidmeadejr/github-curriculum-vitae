@@ -142,42 +142,31 @@ I am innovative and data-driven with standout complex problem-solving skills. I 
 ***Jun 2022 - Present (4 months)***\
 ***Full-Stack Software Engineer in Residence***\
 **Hybrid**
-* Co-founded Divvy, an iOS bill-splitting mobile app. 
-  * Where I built 8 components along with 6 screens and routing to handle the user flow using React Native and JavaScript.
-
-* Developed language agnostic programming expertise building CRUD apps where I wrote TDD code with JavaScript, Ruby and Java.
-* Wrote algorthimic programs in: JavaScript, TypeScript, Solidity and Rust in addtion to creating frameworks to time and compare their efficiency. 
-  * As a result, developing proficiency in time complexity.
+* Led the development of Divvy, an iOS bill-splitting mobile app, using React Native and JavaScript to build 8 components, 6 screens and routing to create a seamless user experience.
+* Developed skills in TDD, JavaScript, Ruby, Java, and language-agnostic programming by building CRUD apps using MVC architecture and OOP principles.
+* Optimised performance by writing Java algorithmic programs and developing frameworks to measure and compare efficiency, resulting in a strong proficiency in algorithmic complexity analysis.
 
 ### 🌐 Flooz Inc.
 ***Mar 2022 - Jun 2022 (3 months)***\
 ***Software Engineer***\
 **Remote**
-* Improved the trading UX on the Flooz Trade v2 app. 
-  * Which helped increase traffic and trading volume by developing the navigation UI with Next.js and TypeScript.
+* Developed the navigation UI with Next.js and TypeScript to improve the trading user experience on the Flooz Trade v2 app, resulting in an increase of significant traffic and trading volume.
+* Upgraded "swap token" UX by modifying the swap embedded widget plugin using TypeScript to enhance the trading experience for token partners, resulting in an improvement in trading volume on their platforms. 
 
-* Upgraded the “swap token” UX for token partners. 
-  * As a result, improving the trading volume on their platforms through modifying the swap embedded widget plugin using TypeScript. 
-
-### 🌐 Astra
+### 🌐 Astraverse
 ***Oct 2021 - Apr 2022 (6 months)***\
 ***Freelance Front-End Engineer***\
 **Remote**
-* Helped Astra gain 2 more venture capital firms as investors and advisors which provided extra capital for the start-up. 
-  * Where I Ied the front-end development for the v1 website using React which was used as part of the pitch deck and demo to VCs.
-
-* Spearheaded the development of the Rodheads NFT project which was used as part of a pitch to Dennis Rodman and his management team. 
-  * Where I figured out how to generate 2440 Dennis Rodman inspired NFTs in a week using React, TypeScript, Rust and Solana
+* Led front-end development of Astra's v1 website using React, which was used as part of the pitch deck and demo to VCs resulting in attracting 2 more venture capital firms as investors and advisors.
+* Spearheaded the development the Astraverse NFT project Rodheads using React, TypeScript, Rust and Solana, resulting in generating 2440 Dennis Rodman-inspired NFTs, which was used as part of a pitch to Dennis Rodman and his management team.
 
 ### 🏦 Santander UK
 ***Sep 2017 - Mar 2022***\
 ***Software Engineering Degree Apprentice***\
 **Milton Keynes & London**
-* Helped create the internal learning and mentoring platforms front-end using Angular and TypeScript. 
-  * As a result, increasing the number of users to more than 250 engineers in the UK. 
-  * Using Angular and TypeScript to implement the admin dashboard and profile page navigation UI.
-
-* Improved the UX for 30 internal product teams by upgrading the internal products team board using Angular and TypeScript.
+* Helped create the internal learning and mentoring platforms front-end using Angular and TypeScript, resulting in an increase of users to over 250 engineers in the UK.
+* Implemented admin dashboard and profile page navigation UI using Angular and TypeScript.
+* Upgraded the internal products team board using Angular and TypeScript to improve the UX for 30 internal product teams.
 
 ## 👨🏾‍🎓 Education
 
@@ -188,7 +177,7 @@ I am innovative and data-driven with standout complex problem-solving skills. I 
 
 * ### Professional Training 
   * ### Chainlink
-    * Web3 Bootcamp 
+    * Chainlink Certified Smart Contract Developer 
     * (Oct 2022 – Nov 2022)
     * Relevant Coursework: Introduction to Blockchain and Solidity, Oracles, Hardhat Development Environment, Smart Contract Security, Testing Smart Contracts.
 
