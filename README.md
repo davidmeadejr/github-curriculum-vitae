@@ -134,12 +134,9 @@ I am innovative and data-driven with standout complex problem-solving skills. I 
  * <strong>Apprentice Cyber Security Analyst</strong>, <em>Santander</em> (Sep 2018 – Mar 2019) 
  * <strong>Apprentice Innovation Consultant</strong>, <em>Santander</em> (Mar 2018 – Sep 2018)    
  * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018) -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h3 style="margin: 0;">### 🏫 Makers Academy</h3>
-  <span style="margin-left: 20px;">(2022 - Present)</span>
-</div>
 
 
+### 🏫 Makers Academy (2022 - Present)
 ***Graduate Full-Stack Software Engineer***\
 **Hybrid**
 * Built CRUD apps using JavaScript, Java, MVC architecture for separation of concerns, and OOP for code reusability.
@@ -148,20 +145,20 @@ I am innovative and data-driven with standout complex problem-solving skills. I 
 * Integrated relational and non-relational databases with programs to store information by designing SQL/NoSQL database schemas.
 * Built a mobile bill-splitting app using React Native for cross-platform development, as part of an Agile team of 5, conducting weekly sprints, pair programming, and using Git.
 
-### 🌐 Flooz <div align="right"> (2022 - 2022) </div>
+### 🌐 Flooz (2022 - 2022)
 ***Software Engineer***\
 **Remote**
 * Increased the traffic and trading volume on the Flooz Trade platform by implementing the navigation UI with Next.js for server-side rendering and TypeScript for static typing.
 * Improved the trading volume on partner platforms by upgrading the "swap token" UX by customising the swap embedded widget plugin using TypeScript.
 * Reinforced the Flooz Trade app by writing regression tests ensuring that any new changes made to the codebase did not break the app's existing functionality.
 
-### 🌐 Astraverse <div align="right"> (2021 - 2022) </div>
+### 🌐 Astraverse (2021 - 2022)
 ***Freelance Front-End Engineer***\
 **Remote**
 * Secured additional venture capital funding and advisors by creating Astraverse's v1 website using React and TypeScript for the pitch deck and demo.
 * Contributed to an NFT project pitch to Dennis Rodman and his management team by developing 2440 unique NFTs using React for dynamic UI components, TypeScript, Rust and Solana for blockchain integration.
 
-### 🏦 Santander Bank <div align="right"> (2017 - 2022) </div>
+### 🏦 Santander Bank (2017 - 2022)
 ***Technology Degree Apprentice (Software Engineering Pathway)***\
 **Milton Keynes/London**
 * Completed software development lifecycle (SDLC) projects in data, cyber security, innovation, and continuous governance teams using Agile methodologies and by finishing assigned front-end development tickets.
@@ -172,16 +169,16 @@ I am innovative and data-driven with standout complex problem-solving skills. I 
 ## 👨🏾‍🎓 Education
 
 * ### Imperial College London
-    * ### Chainlink Certified Smart Contract Developer  <div align="right"> (2022 - 2022) </div>
+    * ### Chainlink Certified Smart Contract Developer (2022 - 2022)
       * Lectures from Chainlink Community Advocates & Smart Contract Developers.
       * Wrote & tested smart contracts on the Goerli testnet.
 
-* ### BPP University <div align="right"> (Sep 2017 – Mar 2022) </div>
+* ### BPP University (Sep 2017 – Mar 2022)
     * ### BSc, Digital and Technology Solutions, Computer Software Engineering
       * 1 of 14 selected for the program out of over 900 applicants.
       * Awarded highest achiever in final year software engineering modules.
 
-* ### The London Institute of Banking & Finance <div align="right"> (Issued Aug 2017. No Expiration Date) </div>
+* ### The London Institute of Banking & Finance (Issued Aug 2017. No Expiration Date)
     * Diploma in Financial Studies (DipFS)
       * 2017 top percentile achiever in the UK.
       * Recieved a scholarship to study at The London Institute of Banking & Finance
