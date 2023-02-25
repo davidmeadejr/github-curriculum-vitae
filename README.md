@@ -135,57 +135,53 @@ I am innovative and data-driven with standout complex problem-solving skills. I 
  * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018) -->
 
 ### 🏫 Makers Academy
-***Jun 2022 - Present (4 months)***\
-***Full-Stack Software Engineer in Residence***\
+***Jun 2022 - Present (7 months)***\
+***Graduate Full-Stack Software Engineer***\
 **Hybrid**
-* Led the development of Divvy, an iOS bill-splitting mobile app, using React Native and JavaScript to build 8 components, 6 screens and routing to create a seamless user experience.
-* Developed skills in TDD, JavaScript, Ruby, Java, and language-agnostic programming by building CRUD apps using MVC architecture and OOP principles.
-* Optimised performance by writing Java algorithmic programs and developing frameworks to measure and compare efficiency, resulting in a strong proficiency in algorithmic complexity analysis.
+* Built CRUD apps using JavaScript, Java, MVC architecture for separation of concerns, and OOP for code reusability.
+* Developed RESTful APIs for standardised communication using PostgreSQL and MongoDB/Mongoose with Express.js/Node.js.
+* Achieved complete code coverage to maximise code quality for apps using TDD and conducted comprehensive unit and integration tests with Jest and Cypress.
+* Integrated relational and non-relational databases with programs to store information by designing SQL/NoSQL database schemas.
+* Built a mobile bill-splitting app using React Native for cross-platform development, as part of an Agile team of 5, conducting weekly sprints, pair programming, and using Git.
 
-### 🌐 Flooz Inc.
+### 🌐 Flooz
 ***Mar 2022 - Jun 2022 (3 months)***\
 ***Software Engineer***\
 **Remote**
-* Developed the navigation UI with Next.js and TypeScript to improve the trading user experience on the Flooz Trade v2 app, resulting in an increase of significant traffic and trading volume.
-* Upgraded "swap token" UX by modifying the swap embedded widget plugin using TypeScript to enhance the trading experience for token partners, resulting in an improvement in trading volume on their platforms. 
+* Increased the traffic and trading volume on the Flooz Trade platform by implementing the navigation UI with Next.js for server-side rendering and TypeScript for static typing.
+* Improved the trading volume on partner platforms by upgrading the "swap token" UX by customising the swap embedded widget plugin using TypeScript.
+* Reinforced the Flooz Trade app by writing regression tests ensuring that any new changes made to the codebase did not break the app's existing functionality.
 
 ### 🌐 Astraverse
-***Oct 2021 - Apr 2022 (6 months)***\
+***Oct 2021 - Mar 2022 (6 months)***\
 ***Freelance Front-End Engineer***\
 **Remote**
-* Led front-end development of Astra's v1 website using React, which was used as part of the pitch deck and demo to VCs resulting in attracting 2 more venture capital firms as investors and advisors.
-* Spearheaded the development the Astraverse NFT project Rodheads using React, TypeScript, Rust and Solana, resulting in generating 2440 Dennis Rodman-inspired NFTs, which was used as part of a pitch to Dennis Rodman and his management team.
+* Secured additional venture capital funding and advisors by creating Astraverse's v1 website using React and TypeScript for the pitch deck and demo.
+* Contributed to an NFT project pitch to Dennis Rodman and his management team by developing 2440 unique NFTs using React for dynamic UI components, TypeScript, Rust and Solana for blockchain integration.
 
-### 🏦 Santander UK
+### 🏦 Santander Bank
 ***Sep 2017 - Mar 2022***\
-***Software Engineering Degree Apprentice***\
-**Milton Keynes & London**
-* Helped create the internal learning and mentoring platforms front-end using Angular and TypeScript, resulting in an increase of users to over 250 engineers in the UK.
-* Implemented admin dashboard and profile page navigation UI using Angular and TypeScript.
-* Upgraded the internal products team board using Angular and TypeScript to improve the UX for 30 internal product teams.
+***Technology Degree Apprentice (Software Engineering Pathway)***\
+**Milton Keynes/London**
+* Completed software development lifecycle (SDLC) projects in data, cyber security, innovation, and continuous governance teams using Agile methodologies and by finishing assigned front-end development tickets.
+* Increased the number of engineers collaborating and developer day resources at their disposal by helping build the front-end of Santander's internal learning and mentoring platform using Angular enterprise-level applications and TypeScript.
+* Improved internal product team workflows by enhancing the UX/UI of the team board using Angular and TypeScript.
+* Spoke to younger students to promote the apprenticeship program and early career opportunities at Santander through public speaking engagements at technology and apprenticeship events.
 
 ## 👨🏾‍🎓 Education
 
-* ### BPP University
-  * Bachelor of Science, Digital and Technology Solutions
-  * (Sep 2017 – Mar 2022)
-  * Relevant Coursework: Programming in Python, Object-Oriented Programming in Java, IS Security and Risk Management, Web Development.
+* ### Chainlink Certified Smart Contract Developer (2022 - 2022)
+    * ### Imperial College London
+      * Lectures from Chainlink Community Advocates & Smart Contract Developers.
+      * Wrote & tested smart contracts on the Goerli testnet.
 
-* ### Professional Training 
-  * ### Chainlink
-    * Chainlink Certified Smart Contract Developer 
-    * (Oct 2022 – Nov 2022)
-    * Relevant Coursework: Introduction to Blockchain and Solidity, Oracles, Hardhat Development Environment, Smart Contract Security, Testing Smart Contracts.
+* ### BPP University (Sep 2017 – Mar 2022)
+  * ### BSc, Digital and Technology Solutions, Computer Software Engineering
+    * 1 of 14 selected for the program out of over 900 applicants.
+    * Awarded highest achiever in final year software engineering modules.
 
-  * ### Makers Academy
-    * Full-Stack Software Engineering Bootcamp 
-    * (Jun 2022 – Oct 2022)
-    * Relevant Coursework: Software Testing, NoSQL & Relational Database Management, Agile Methodologies, Modern JavaScript Programming, Algorithmic Complexity.
-
-
-  * ### The London Institute of Banking & Finance
+  * ### The London Institute of Banking & Finance (Issued Aug 2017. No Expiration Date)
     * Diploma in Financial Studies (DipFS)
-    * (Issued Aug 2017. No Expiration Date)
   
  ## 🌍 Extra-Curricular Activities
 * Sports: amateur boxing, football and running.
