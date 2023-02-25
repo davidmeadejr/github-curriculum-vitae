@@ -135,7 +135,7 @@ I am innovative and data-driven with standout complex problem-solving skills. I 
  * <strong>Apprentice Innovation Consultant</strong>, <em>Santander</em> (Mar 2018 – Sep 2018)    
  * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018) -->
 
-### 🏫 Makers Academy&nbsp;&nbsp;&nbsp;&nbsp;(2022 - Present)
+<h3 style="display: inline-block; margin-right: 20px;">### 🏫 Makers Academy</h3>(2022 - Present)
 ***Graduate Full-Stack Software Engineer***\
 **Hybrid**
 * Built CRUD apps using JavaScript, Java, MVC architecture for separation of concerns, and OOP for code reusability.
