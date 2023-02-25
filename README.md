@@ -134,8 +134,11 @@ I am innovative and data-driven with standout complex problem-solving skills. I 
  * <strong>Apprentice Cyber Security Analyst</strong>, <em>Santander</em> (Sep 2018 – Mar 2019) 
  * <strong>Apprentice Innovation Consultant</strong>, <em>Santander</em> (Mar 2018 – Sep 2018)    
  * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018) -->
+<div style="display: flex; align-items: center;">
+  <h3 style="margin: 0;">### 🏫 Makers Academy</h3>
+  <span style="margin-left: 20px;">(2022 - Present)</span>
+</div>
 
-<h3 style="display: inline-block; margin-right: 20px;">### 🏫 Makers Academy</h3>(2022 - Present)
 ***Graduate Full-Stack Software Engineer***\
 **Hybrid**
 * Built CRUD apps using JavaScript, Java, MVC architecture for separation of concerns, and OOP for code reusability.
