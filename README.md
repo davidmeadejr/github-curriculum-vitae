@@ -184,7 +184,7 @@ I am innovative and data-driven with standout complex problem-solving skills. I 
       * Recieved a scholarship to study at The London Institute of Banking & Finance
   
  ## 🌍 Extra-Curricular Activities
-* Sports: amateur boxing and running.
+* Sports: amateur boxing, running and chess.
 * Reading fiction: Japanese and Korean comics.
 * Reading non-fiction: startups, product design, philosophy, technology.
 
