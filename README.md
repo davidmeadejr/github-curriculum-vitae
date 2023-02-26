@@ -179,7 +179,7 @@ I am innovative and data-driven with standout complex problem-solving skills. I 
       * Awarded highest achiever in final year software engineering modules.
 
 * ### The London Institute of Banking & Finance (Issued Aug 2017. No Expiration Date)
-    * Diploma in Financial Studies (DipFS)
+    * ## Diploma in Financial Studies (DipFS)
       * 2017 top percentile achiever in the UK.
       * Recieved a scholarship to study at The London Institute of Banking & Finance
   
