@@ -169,17 +169,17 @@ I am innovative and data-driven with standout complex problem-solving skills. I 
 ## 👨🏾‍🎓 Education
 
 * ### Imperial College London
-    * ### Chainlink Certified Smart Contract Developer (2022 - 2022)
+    * #### Chainlink Certified Smart Contract Developer (2022 - 2022)
       * Lectures from Chainlink Community Advocates & Smart Contract Developers.
       * Wrote & tested smart contracts on the Goerli testnet.
 
 * ### BPP University (Sep 2017 – Mar 2022)
-    * ### BSc, Digital and Technology Solutions, Computer Software Engineering
+    * #### BSc, Digital and Technology Solutions, Computer Software Engineering
       * 1 of 14 selected for the program out of over 900 applicants.
       * Awarded highest achiever in final year software engineering modules.
 
 * ### The London Institute of Banking & Finance (Issued Aug 2017. No Expiration Date)
-    * ## Diploma in Financial Studies (DipFS)
+    * #### Diploma in Financial Studies (DipFS)
       * 2017 top percentile achiever in the UK.
       * Recieved a scholarship to study at The London Institute of Banking & Finance
   
