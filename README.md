@@ -145,14 +145,14 @@ I am innovative and data-driven with standout complex problem-solving skills. I 
 * Integrated relational & non-relational databases for full-stack web apps by designing SQL/NoSQL database schemas.
 * Developed a iOS bill-splitting app with React Native for cross-platform development in an Agile team of 5, pair programming & w/ Git.
 
-### 🌐 Flooz (2022 - 2022)
+### 🌐 Flooz (Pre-seed) (2022 - 2022)
 ***Software Engineer***\
 **Remote**
 * Increased the traffic/trading volume on their crypto exchange platform by improving navigation UI using Next.js for SSR w/TypeScript.
 * Improved the trading volume on partner platforms by upgrading the "swap token" UX with TypeScript-based plugin customisation.
 * Optimised the exchange platform’s stability by writing regression tests to ensure new code changes didn’t break existing functionality.
 
-### 🌐 Astraverse (2021 - 2022)
+### 🌐 Astraverse (Pre-seed) (2021 - 2022)
 ***Freelance Front-End Engineer***\
 **Remote**
 * Centralised company information for VCs & consumers by building the v1 website w/ React for dynamic UI components and TypeScript.
