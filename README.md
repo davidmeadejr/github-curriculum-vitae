@@ -29,7 +29,7 @@
 
  ## 🔎 About
 
-A full-stack software engineer specialising in product development with over 4.5 years of professional experience at an FTSE-100 FinTech organisation and two venture capital-backed web3 startups. Selected as one of the brightest minds by Project Data Hack in 2022 and was part of the winning team at their Google hackathon in London. Being one of the four members of Team Nudgewell beating 7 other teams.
+A customer-centric full-stack software engineer focused on FinTech, startups and web3 companies. Worked at Santander and two VC backed startups (Pre-seed). Selected for Google’s 2022 Project Data Hack and won the hackathon in London.
 
 <!--  ---
 
@@ -140,38 +140,42 @@ I am innovative and data-driven with standout complex problem-solving skills. I 
 ***Graduate Full-Stack Software Engineer***\
 **Hybrid**
 * Built CRUD apps using JavaScript, Java, MVC architecture for separation of concerns, and OOP for code reusability.
-* Developed RESTful APIs for standardised communication using PostgreSQL and MongoDB/Mongoose with Express.js/Node.js.
-* Achieved complete code coverage to maximise code quality for apps using TDD and conducted comprehensive unit and integration tests with Jest and Cypress.
-* Integrated relational and non-relational databases with programs to store information by designing SQL/NoSQL database schemas.
-* Built a mobile bill-splitting app using React Native for cross-platform development, as part of an Agile team of 5, conducting weekly sprints, pair programming, and using Git.
+* Simplified & scaled web app development by developing RESTful APIs using Express.js/Node.js and PostgreSQL/MongoDB/Mongoose.
+* Improved the code quality & reliability of apps using TDD with Jest unit and Cypress E2E testing.
+* Integrated relational & non-relational databases for full-stack web apps by designing SQL/NoSQL database schemas.
+* Developed a iOS bill-splitting app with React Native for cross-platform development in an Agile team of 5, pair programming & w/ Git.
 
 ### 🌐 Flooz (2022 - 2022)
 ***Software Engineer***\
 **Remote**
-* Increased the traffic and trading volume on the Flooz Trade platform by implementing the navigation UI with Next.js for server-side rendering and TypeScript for static typing.
-* Improved the trading volume on partner platforms by upgrading the "swap token" UX by customising the swap embedded widget plugin using TypeScript.
-* Reinforced the Flooz Trade app by writing regression tests ensuring that any new changes made to the codebase did not break the app's existing functionality.
+* Increased the traffic/trading volume on their crypto exchange platform by improving navigation UI using Next.js for SSR w/TypeScript.
+* Improved the trading volume on partner platforms by upgrading the "swap token" UX with TypeScript-based plugin customisation.
+* Optimised the exchange platform’s stability by writing regression tests to ensure new code changes didn’t break existing functionality.
 
 ### 🌐 Astraverse (2021 - 2022)
 ***Freelance Front-End Engineer***\
 **Remote**
-* Secured additional venture capital funding and advisors by creating Astraverse's v1 website using React and TypeScript for the pitch deck and demo.
-* Contributed to an NFT project pitch to Dennis Rodman and his management team by developing 2440 unique NFTs using React for dynamic UI components, TypeScript, Rust and Solana for blockchain integration.
+* Centralised company information for VCs & consumers by building the v1 website w/ React for dynamic UI components and TypeScript.
+* Supported the Founder with his pitch to Dennis Rodman's team by developing 2440 NFTs on Solana for faster transactions & lower fees.
 
 ### 🏦 Santander Bank (2017 - 2022)
 ***Technology Degree Apprentice (Software Engineering Pathway)***\
 **Milton Keynes/London**
-* Completed software development lifecycle (SDLC) projects in data, cyber security, innovation, and continuous governance teams using Agile methodologies and by finishing assigned front-end development tickets.
-* Increased the number of engineers collaborating and developer day resources at their disposal by helping build the front-end of Santander's internal learning and mentoring platform using Angular enterprise-level applications and TypeScript.
+* Completed front-end development tickets in the innovation team using Agile methodologies, Angular for scalability and TypeScript.
+* Increased learning & collaboration among engineers by helping build a in-house learning platform using Angular and TypeScript.
 * Improved internal product team workflows by enhancing the UX/UI of the team board using Angular and TypeScript.
-* Spoke to younger students to promote the apprenticeship program and early career opportunities at Santander through public speaking engagements at technology and apprenticeship events.
+* Spoke at tech & apprenticeship events to promote the apprenticeship program and early career opportunities to prospective students.
 
 ## 👨🏾‍🎓 Education
 
 * ### Imperial College London
     * #### Chainlink Certified Smart Contract Developer (2022 - 2022)
-      * Lectures from Chainlink Community Advocates & Smart Contract Developers.
-      * Wrote & tested smart contracts on the Goerli testnet.
+      * Built next-gen smart contracts using Chainlink oracles.
+      * Wrote & tested smart contracts on the Goerli Testnet using Solidity.
+      * Accessed off-chain data securely through Chainlink data feeds.
+      * Obtained verifiably random numbers using Chainlink VRF.
+      * Accessed APIs using Chainlink.
+      * Networked with Chainlink Community Advocates, Smart Contract Developers and fellow web3 enthusiasts.
 
 * ### BPP University (Sep 2017 – Mar 2022)
     * #### BSc, Digital and Technology Solutions, Computer Software Engineering
