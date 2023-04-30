@@ -110,8 +110,8 @@ I am innovative and data-driven with standout complex problem-solving skills. I 
 
 ## 👨🏾‍🎓 Education
 
-* ### Imperial College London
-    * #### Chainlink Certified Smart Contract Developer (2022 - 2022)
+* ### Imperial College London (2022 - 2022)
+    * #### Chainlink Certified Smart Contract Developer
       * Built next-gen smart contracts using Chainlink oracles.
       * Wrote & tested smart contracts on the Goerli Testnet using Solidity.
       * Accessed off-chain data securely through Chainlink data feeds.
