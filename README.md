@@ -72,10 +72,10 @@ In the ever-evolving world of software engineering, I have consistently demonstr
 * ### Problem Solving
 Throughout my career, I have tackled various technical challenges, fixed code bugs, and improved product performance in multiple projects. At Santander, I was responsible for managing company metadata spreadsheets, which required diligent attention to detail and organisation. By efficiently updating and managing these spreadsheets, I ensured data accuracy and provided senior management with valuable insights. In another instance, as a software engineer, I used my creative thinking and problem-solving skills to develop innovative solutions for complex software engineering problems, leading to successful project outcomes and increased efficiency.
 
-Initiative:
+* ### Initiative:
 I have always been proactive in seeking opportunities to expand my knowledge and contribute to projects. I have participated in hackathons, where I transformed original ideas into technical proof-of-concepts. Additionally, I secured an interview at Google by winning the 2022 Project Data Hack with three other teammates. My initiative and dedication have enabled me to stay ahead of the curve and make a significant impact on the projects in which I have been involved.
 
-Time Management:
+* ### Time Management:
 I have demonstrated my exceptional time management skills by successfully balancing a full-time FinTech apprenticeship, a technology degree, and a weekend retail job for 4.5 years. I achieved this by prioritising tasks, managing my time effectively, and maintaining focus on my various responsibilities. My ability to multitask in a time-sensitive environment has been instrumental in meeting deadlines and achieving my goals.
 
 ## 👨🏾‍🎓 Education
