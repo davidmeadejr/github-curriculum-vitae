@@ -101,22 +101,6 @@ Throughout my career, I have tackled various technical challenges, fixed code bu
 
 &nbsp;
 
-
-<!-- **📊 GitHub Statssss**
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmeadejr&theme=matrix&margin-w=15&margin-h=15&column=7" alt="davidmeadejr" /></a> </p> -->
-
- <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark" /></a> 
- <br />
- <br />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmeadejr&show_icons=true&theme=chartreuse-dark" alt="DMJ's github stats" /></a> 
- <br />
- <br />
-<img alt="github contribution snake animation" src="https://github.com/davidmeadejr/davidmeadejr/blob/output/github-contribution-grid-snake.svg">
-<br />
-<br />
-<br />
-<br /> -->
  <p align="center" style="font-size: 60px"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=343c44&style=flat&logo" alt="back to top" /></a></p>
 
 
