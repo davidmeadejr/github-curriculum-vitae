@@ -24,12 +24,12 @@
 <div align="center">
  
 
-[About](#-about) | [Value](#-value) | [Experience](#-experience) | [Education](#-education) | [Extra-Curricular Activities](#-extra-curricular-activities) | [🖖](https://y.at/♟️🚫🏁❗) 
+[About](#-about) | [Value](#-value) | [Experience](#-experience) | [Education](#-education) | [Extra-Curricular Activities](#-extra-curricular-activities) 
 </div>
 
  ## 🔎 About
 
-A customer-centric full-stack software engineer focused on FinTech, startups and web3 companies. Worked at Santander and two VC backed startups (Pre-seed). Selected for Google’s 2022 Project Data Hack and won the hackathon in London.
+A recent graduate of a top European coding bootcamp and a renowned software engineering degree program funded by Santander. Winner of the Google 2022 Project Data Hack and has worked with two web3 startups backed by VCs Meta and Seedcamp. Passionate about using technology for solving problems with customer-focused products.
 
 <!--  ---
 
