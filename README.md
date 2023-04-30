@@ -30,83 +30,47 @@
  ## 🔎 About
 
 A recent graduate of a top European coding bootcamp and a renowned software engineering degree program funded by Santander. Winner of the Google 2022 Project Data Hack and has worked with two web3 startups backed by VCs Meta and Seedcamp. Passionate about using technology for solving problems with customer-focused products.
-
-## 🤝 Strengths (Soft Skills)
-
-* ### Problem Solver (First Principles Thinker)
-
-I enjoy the challenge of solving real world problems which is what initiallly drew me to programming. It has enabled me to work proactively and collaboratively across all stages of the software development lifecycle to build digital products. I prefer to think about problems that are related to the barriers between people and technology. Along with how I can leverage my programming skills to help create a seamless digital future with like-minded individuals. 
-
-This skill was demonstrated most notably, when I spearheaded the development of the Rodheads NFT project. Where I figured out how to generate 2440 Dennis Rodman inspired NFTs in a week using React, TypeScript, Rust and Solana. This was then used as part of a pitch to Dennis Rodman and his management team. The promotional video of the NFTs I generated can be found here → <a href="https://twitter.com/ThrillDAO/status/1470752410771595265">
-Rodheads</a>.
-
-
-* ### Autodidact (Self-Learner)
-
-I consider myself an autodidact as I did not take the conventional route of learning computer science by going to university. In 2017, I was awarded one of 14 positions in Santander's 2017 Technology Degree Apprenticeship program. For high-achieving, diverse talent out of more than 900 applications nationwide. Where I programmed the internal learning and mentoring platform. Which grew to 250+ engineers as users. Along with improving the UX for 30 internal product teams. In both cases, teaching myself and learning TypeScript and Angular on the job. 
-
-I also demonstrated this skill while working on a side project I co-founded called <a href="https://github.com/davidmeadejr/divvy-app"> Divvy</a>. Which is an iOS bill-splitting app where I learned React Native and built 8 components along with 6 screens and routing to handle the user flow. It was presented to over 80 attendees at a full-stack software engineering bootcamp demo day. Where it received overwhelmingly positive feedback.
-
-* ### Builder (Proactive)
-
-I am innovative and data-driven with standout complex problem-solving skills. I also enjoy building with like-minded individuals so you can often find me participating in hackathons. Putting these skills to use in 2022 at Google. Where I was one of the top 30 underrepresented thinkers in the UK out of over more than 100 candidates. Where I co-founded Nudgewell, a personalised money-saving and wellness app. Aimed at helping homeowners and housemates during the cost of living crisis. Where I created the initial screens and routing using React Native. While also interacting with the application's backend built with Python and Django.
-
-
-
-<!-- **👣 Footprints**
- * <strong>Trainee Solidity Engineer</strong>, <em>Encode Club</em> (Sept 2022 – Oct 2022)
- * <strong>Trainee Full-Stack Software Engineer</strong>, <em>Makers Academy</em> (Jun 2022 – Oct 2022)
- * <strong>Software Engineer</strong>, <em>Flooz</em> (Mar 2022 –  May 2022) 
- * <strong>Freelance Front-End Engineer</strong>, <em>Thrill Digital</em> (Oct 2021 –  Apr 2022)   
- * <strong>Apprentice Front-End Engineer</strong>, <em>Santander</em> (Mar 2019 – Feb 2022)  
- * <strong>Apprentice Cyber Security Analyst</strong>, <em>Santander</em> (Sep 2018 – Mar 2019) 
- * <strong>Apprentice Innovation Consultant</strong>, <em>Santander</em> (Mar 2018 – Sep 2018)    
- * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018)    
-<!--  * <strong>Sales</strong>, <em>Superdry</em> (Sep 2016 – Nov 2021) 
- * <strong>Sales</strong>, <em>House of Fraser</em> (Sep 2015 – Jan 2016)  -->
  
 ## 💼 Experience
-
-<!-- ### 👣 Footprints
- * <strong>Trainee Solidity Engineer</strong>, <em>Encode Club</em> (Sept 2022 – Oct 2022)
- * <strong>Trainee Full-Stack Software Engineer</strong>, <em>Makers Academy</em> (Jun 2022 – Oct 2022)
- * <strong>Software Engineer</strong>, <em>Flooz</em> (Mar 2022 –  May 2022) 
- * <strong>Freelance Front-End Engineer</strong>, <em>Thrill Digital</em> (Oct 2021 –  Apr 2022)   
- * <strong>Apprentice Front-End Engineer</strong>, <em>Santander</em> (Mar 2019 – Feb 2022)  
- * <strong>Apprentice Cyber Security Analyst</strong>, <em>Santander</em> (Sep 2018 – Mar 2019) 
- * <strong>Apprentice Innovation Consultant</strong>, <em>Santander</em> (Mar 2018 – Sep 2018)    
- * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018) -->
-
 
 ### 🏫 Makers Academy (2022 - Present)
 ***Graduate Full-Stack Software Engineer***\
 **Hybrid**
-* Built CRUD apps using JavaScript, Java, MVC architecture for separation of concerns, and OOP for code reusability.
-* Simplified & scaled web app development by developing RESTful APIs using Express.js/Node.js and PostgreSQL/MongoDB/Mongoose.
-* Improved the code quality & reliability of apps using TDD with Jest unit and Cypress E2E testing.
-* Integrated relational & non-relational databases for full-stack web apps by designing SQL/NoSQL database schemas.
-* Developed a iOS bill-splitting app with React Native for cross-platform development in an Agile team of 5, pair programming & w/ Git.
+* Achieved efficient and reusable CRUD apps with clear separation of concerns by utilising JavaScript, Java, MVC, and OOP.
+* Simplified & scaled web app development, seamlessly integrating databases with RESTful APIs using Node.js, PostgreSQL & MongoDB.
+* Improved app code quality and reliability, enhancing user experience by utilising TDD with Jest unit and Cypress E2E testing.
 
-### 🌐 Flooz (Pre-seed) (2022 - 2022)
+### 🌐 Flooz (2022 - 2022)
 ***Software Engineer***\
 **Remote**
-* Increased the traffic/trading volume on their crypto exchange platform by improving navigation UI using Next.js for SSR w/TypeScript.
-* Improved the trading volume on partner platforms by upgrading the "swap token" UX with TypeScript-based plugin customisation.
-* Optimised the exchange platform’s stability by writing regression tests to ensure new code changes didn’t break existing functionality.
+* Increased traffic and trading volume resulting in more user engagement & platform revenue by improving navigation UI with React.
+* Boosted trading volume on partner platforms leading to increased transaction volume & revenue by enhancing "swap token" UX w/ TS.
+* Optimised platform stability resulting in a smoother user experience and fewer bugs by implementing regression tests.
 
-### 🌐 Astraverse (Pre-seed) (2021 - 2022)
-***Freelance Front-End Engineer***\
+### 🌐 Astraverse (2021 - 2022)
+***Front-End Engineer***\
 **Remote**
-* Centralised company information for VCs & consumers by building the v1 website w/ React for dynamic UI components and TypeScript.
-* Supported the Founder with his pitch to Dennis Rodman's team by developing 2440 NFTs on Solana for faster transactions & lower fees.
+* Created a centralised hub of company information, benefiting VCs and consumers using React and TypeScript to build the v1 website.
+* Supported the founder's pitch to Dennis Rodman's team leading to progressive negotiations by developing 2440 Solana-based NFTs.
 
-### 🏦 Santander Bank (2017 - 2022)
+### 🏦 Santander (2017 - 2022)
 ***Technology Degree Apprentice (Software Engineering Pathway)***\
 **Milton Keynes/London**
-* Completed front-end development tickets in the innovation team using Agile methodologies, Angular for scalability and TypeScript.
-* Increased learning & collaboration among engineers by helping build a in-house learning platform using Angular and TypeScript.
-* Improved internal product team workflows by enhancing the UX/UI of the team board using Angular and TypeScript.
-* Spoke at tech & apprenticeship events to promote the apprenticeship program and early career opportunities to prospective students.
+* Accelerated the delivery of front-end tickets enabling the innovation team to achieve targets using Agile, Angular for scalability & TS.
+* Improved engineer collaboration increasing cross-team collaboration by helping build an in-house learning platform using Angular & TS.
+* Enhanced the team board UX/UI improving product team workflows with Angular and TypeScript.
+
+## 🤝 Strengths (Soft Skills)
+
+* ### Collaboration
+During my time at Santander and my work on web3 projects, I have effectively collaborated on FinTech, Academic, and web3 projects with diverse teams. For example, at Santander, I accelerated the delivery of front-end tickets by utilising Agile methodology and Angular for scalability, resulting in the innovation team achieving their targets. I also enhanced engineer collaboration by helping to build an in-house learning platform using Angular and TypeScript. This collaborative approach has enabled me to contribute to smooth project execution and foster productive team relationships.
+
+
+* ### Adaptability
+In the ever-evolving world of software engineering, I have consistently demonstrated my adaptability by swiftly learning and applying modern technologies such as TypeScript and React. For instance, when working on a group project that required proficiency in JavaScript and React Native, I leveraged my software engineering background and transferable skills from other languages to effectively build the entire frontend of the mobile app within just eight days. This adaptability has been crucial for ensuring project success and keeping up with the rapid pace of technological advancements.
+
+* ### Problem Solving
+Throughout my career, I have tackled various technical challenges, fixed code bugs, and improved product performance in multiple projects. At Santander, I was responsible for managing company metadata spreadsheets, which required diligent attention to detail and organisation. By efficiently updating and managing these spreadsheets, I ensured data accuracy and provided senior management with valuable insights. In another instance, as a software engineer, I used my creative thinking and problem-solving skills to develop innovative solutions for complex software engineering problems, leading to successful project outcomes and increased efficiency.
 
 ## 👨🏾‍🎓 Education
 
