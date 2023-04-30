@@ -74,10 +74,10 @@ Throughout my career, I have tackled various technical challenges, fixed code bu
 
 In another instance, whilst working on a frontend project to create the v1 website using React, I faced a challenging issue concerning state management, leading to complications and reduced performance. The challenge involved finding an efficient solution to manage the complex state of the application, enhance overall performance, and successfully complete the v1 website. In response, I researched a variety of state management techniques and libraries, ultimately choosing to implement Redux for effective application state management. I studied the Redux documentation and integrated it into the project, refactoring existing components to work with the Redux store. Consequently, the application's performance improved considerably, and the state-related issues were resolved. The completed v1 website functioned as a central hub for company information, offering valuable insights to VCs and consumers while facilitating a smoother user experience and easier maintainability for the development team.
 
-* ### Initiative:
+* ### Initiative
 I have always been proactive in seeking opportunities to expand my knowledge and contribute to projects. I have participated in hackathons, where I transformed original ideas into technical proof-of-concepts. Also, In pursuit of opportunities in the FinTech sector, I sought roles within both centralised and decentralised financial domains. The challenge lay in acquiring relevant experience in the FinTech web3 industry. To achieve this, I dedicated 4.5 years to working at a large corporate bank and nearly a year at two web3 FinTech start-ups. As a result, I gained substantial experience and became well-versed in the FinTech industry.
 
-* ### Time Management:
+* ### Time Management
 I have demonstrated my exceptional time management skills by successfully balancing a full-time FinTech apprenticeship, a technology degree, and a weekend retail job for 4.5 years. I achieved this by prioritising tasks, managing my time effectively, and maintaining focus on my various responsibilities. My ability to multitask in a time-sensitive environment has been instrumental in meeting deadlines and achieving my goals.
 
 ## 👨🏾‍🎓 Education
