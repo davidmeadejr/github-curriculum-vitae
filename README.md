@@ -11,7 +11,7 @@
 </a>
   &nbsp;
 <a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae-updated.pdf">
-<code><img src="https://img.shields.io/badge/-External%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=ffffff" /></code>
+<code><img src="https://img.shields.io/badge/-PDF%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=ffffff" /></code>
 </a>
   &nbsp;
    <a href="https://www.linkedin.com/in/davidmeadejr/">
