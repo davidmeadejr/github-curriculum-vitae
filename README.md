@@ -133,7 +133,7 @@ I am innovative and data-driven with standout complex problem-solving skills. I 
  ## 🌍 Extra-Curricular Activities
 * Sports: amateur boxing, running and chess.
 * Reading fiction: Japanese and Korean comics.
-* Reading non-fiction: startups, product design, philosophy, technology.
+* Reading non-fiction: startups, philosophy, technology.
 
 &nbsp;
 
