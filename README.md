@@ -24,14 +24,14 @@
 <div align="center">
  
 
-[About](#-about) | [Value (Soft Skills)](#-value) | [Experience](#-experience) | [Education](#-education) | [Extra-Curricular Activities](#-extra-curricular-activities) | [Website](https://www.davidmeadejr.com/)
+[About](#-about) | [Strength (Soft Skills)](#-value) | [Experience](#-experience) | [Education](#-education) | [Extra-Curricular Activities](#-extra-curricular-activities) | [Website](https://www.davidmeadejr.com/)
 </div>
 
  ## 🔎 About
 
 A recent graduate of a top European coding bootcamp and a renowned software engineering degree program funded by Santander. Winner of the Google 2022 Project Data Hack and has worked with two web3 startups backed by VCs Meta and Seedcamp. Passionate about using technology for solving problems with customer-focused products.
 
-## 📈 Value (Soft Skills)
+## 📈 Strength (Soft Skills)
 
 * ### Problem Solver (First Principles Thinker)
 
