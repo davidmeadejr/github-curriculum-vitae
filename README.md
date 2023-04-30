@@ -89,7 +89,7 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
 --- -->
 
 
-## 📈 Value
+## 📈 Value (Soft Skills)
 
 * ### Problem Solver (First Principles Thinker)
 
