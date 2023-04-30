@@ -24,7 +24,7 @@
 <div align="center">
  
 
-[About](#-about) | [Value](#-value) | [Experience](#-experience) | [Education](#-education) | [Extra-Curricular Activities](#-extra-curricular-activities) 
+[About](#-about) | [Value (Soft Skills)](#-value) | [Experience](#-experience) | [Education](#-education) | [Extra-Curricular Activities](#-extra-curricular-activities) 
 </div>
 
  ## 🔎 About
