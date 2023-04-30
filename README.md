@@ -24,7 +24,7 @@
 <div align="center">
  
 
-[About](#-about) | [Value (Soft Skills)](#-value) | [Experience](#-experience) | [Education](#-education) | [Extra-Curricular Activities](#-extra-curricular-activities) 
+[About](#-about) | [Value (Soft Skills)](#-value) | [Experience](#-experience) | [Education](#-education) | [Extra-Curricular Activities](#-extra-curricular-activities) | [Website](https://www.davidmeadejr.com/)
 </div>
 
  ## 🔎 About
