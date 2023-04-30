@@ -31,64 +31,6 @@
 
 A recent graduate of a top European coding bootcamp and a renowned software engineering degree program funded by Santander. Winner of the Google 2022 Project Data Hack and has worked with two web3 startups backed by VCs Meta and Seedcamp. Passionate about using technology for solving problems with customer-focused products.
 
-<!--  ---
-
-  **💬 Quote of the Day**
-<br />
-<br />
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
-
-<!-- ## 💻 Tech Stack
-
-Languages: <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code>
-<code><img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript&logoColor=719af4" /></code>
-<code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=ffffff" /></code>
- <code><img src="https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=e53935" /></code>
-<br /> 
-<br /> 
-Product Design: <code><img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=f1501e" /></code>
-<br /> 
-<br /> 
-Libraries: <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code>
-<br /> 
-<br /> 
-Frameworks: <code><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.JS&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/-Express-000000?&style=flat&logo=express&logoColor=ffffff"/></code>
-<code><img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=de0031"></code>
-<code><img src="https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&logoColor=03AABF" /></code>
-<br /> 
-<br /> 
-Relational Databases:
-<code><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=326292"></code>
-<br /> 
-<br />
-NoSQL Databases: <code><img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=00ee65"></code>
-<br /> 
-<br />
-Testing:  <code><img src="https://img.shields.io/badge/-Jest-000000?&style=flat&logo=jest&logoColor=c21325"/></code>
-<code><img src="https://img.shields.io/badge/-RSpec-000000?&style=flat&logo=rspec&logoColor=e53935"/></code>
-<code><img src="https://img.shields.io/badge/-Cypress-000000?&style=flat&logo=cypress&logoColor=ffffff"/></code>
-<br /> 
-<br /> 
-Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo=git&logoColor=f05032"/></code>
-<code><img src="https://img.shields.io/badge/-Vim-000000?&style=flat&logo=vim&logoColor=12ab00"/></code>
-<code><img src="https://img.shields.io/badge/-Postman-000000?&style=flat&logo=postman&logoColor=FF6C37"/></code>
-<code><img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=6DA55F"/></code>
-<code><img src="https://img.shields.io/badge/-Hardhat-000000?&style=flat&logo=hardhat&logoColor=6DA55F"/></code> -->
-
-<!-- **🧱 Projects**
-
-| **Project**               | **Description**                                                                                                           | **Timeframe** | **Technologies**                                | **Github**                                                          | **Live**                                          |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- | --------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------- |
-| Block Journal     | Users can log and view their daily journals on the blockchain for a chance to win (fake) ETH for free 🦇🔊.                                                       | 2 weeks       | <code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=ffffff" /></code> <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code> <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code> <code><img src="https://img.shields.io/badge/-Hardhat-000000?&style=flat&logo=hardhat&logoColor=6DA55F"/></code><code><img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=6DA55F"/></code> | [Repo](https://github.com/davidmeadejr/block-journal)               | [Live](https://block-journal.vercel.app/)           |
-| Buy me a Coffee DApp  | Allows visitors to send you (fake) ETH as tips and leave nice messages.                                                        | 1 week       | <code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=ffffff" /></code><code><img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript&logoColor=719af4" /></code> <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code> <code><img src="https://img.shields.io/badge/-Hardhat-000000?&style=flat&logo=hardhat&logoColor=6DA55F"/></code><code><img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=6DA55F"/></code> | [Repo](https://github.com/davidmeadejr/buy-me-a-coffee-dapp)               | [Live](...)               |
-| A NFT Collection    | Created a NFT collection on testnet.                                                       | 2 week       | <code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=ffffff" /></code> <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code> <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code> <code><img src="https://img.shields.io/badge/-Hardhat-000000?&style=flat&logo=hardhat&logoColor=6DA55F"/></code><code><img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=6DA55F"/></code> | [Repo](...)               | [Live](...)           | 
-| A NFT Marketplace   | Created a NFT marketplace from scratch on testnet.                                                       | 1 week       | <code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=ffffff" /></code> <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code> <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code> <code><img src="https://img.shields.io/badge/-Hardhat-000000?&style=flat&logo=hardhat&logoColor=6DA55F"/></code><code><img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=6DA55F"/></code> | [Repo](...)               | [Live](...)           |
-| A NFT Game  | Created a NFT game.                                                       | 2 week       | <code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=ffffff" /></code> <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code> <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code> <code><img src="https://img.shields.io/badge/-Hardhat-000000?&style=flat&logo=hardhat&logoColor=6DA55F"/></code><code><img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=6DA55F"/></code> | [Repo](...)               | [Live](...)           |
-| Name Service | Created a custom domain name service on Polygon L2.                                                     | 1 week       | <code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=ffffff" /></code> <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code> <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code> <code><img src="https://img.shields.io/badge/-Hardhat-000000?&style=flat&logo=hardhat&logoColor=6DA55F"/></code><code><img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=6DA55F"/></code> | [Repo](...)               | [Live](...)           |
---- -->
-
-
 ## 📈 Value (Soft Skills)
 
 * ### Problem Solver (First Principles Thinker)
