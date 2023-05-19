@@ -6,8 +6,9 @@
 
 <div align="center">
     <a href="https://github.com/davidmeadejr">
-        <code><img src="https://img.shields.io/badge/-Profile-000000?style=flat&logo=gmail&logoColor=DB4437" /></code>
+        <code><img src="https://img.shields.io/badge/-Profile-000000?style=flat&logo=home&logoColor=DB4437" /></code>
     </a>
+    &nbsp;&nbsp;
     <a href="mailto:davidmeadejnrgmail.com">
         <code><img src="https://img.shields.io/badge/-Contact-000000?style=flat&logo=gmail&logoColor=DB4437" /></code>
     </a>
