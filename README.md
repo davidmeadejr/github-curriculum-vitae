@@ -37,7 +37,7 @@ A recent graduate of a top European coding bootcamp and a renowned software engi
 
 Winner of the Google 2022 Project Data Hack and has worked with two startups backed by VCs Meta and Seedcamp. 
 
-Focused on leveraging code for customer-centric FinTech products.
+Focused on leveraging code for customer-centric products.
  
 ## 💼 Experience
 
