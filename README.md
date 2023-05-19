@@ -1,31 +1,29 @@
 <div align="center">
-  <br /> 
-    <img  align="center" src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="60">
+  <img  align="center" src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="60">
 </div>
- 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&color=6ad20b&center=true&vCenter=true&width=900&height=60&lines=David+Alistair+Meade+Jr...;Digital+Curriculum+Vitae.;)](https://git.io/typing-svg)
 
 <div align="center">
     <a href="mailto:davidmeadejnrgmail.com">
-<code><img src="https://img.shields.io/badge/-Contact-000000?style=flat&logo=gmail&logoColor=DB4437" /></code>
-</a>
-  &nbsp;
-<a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae-updated.pdf">
-<code><img src="https://img.shields.io/badge/-PDF%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=ffffff" /></code>
-</a>
-  &nbsp;
-   <a href="https://www.linkedin.com/in/davidmeadejr/">
-<code><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=0072b1" /></code>
-</a>
-  &nbsp;
+        <code><img src="https://img.shields.io/badge/-Contact-000000?style=flat&logo=gmail&logoColor=DB4437" /></code>
+    </a>
+    <a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae-updated.pdf">
+        <code><img src="https://img.shields.io/badge/-PDF%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=ffffff" /></code>
+    </a>
+    <a href="https://www.linkedin.com/in/davidmeadejr/">
+        <code><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=0072b1" /></code>
+    </a>
 </div>
-  &nbsp;
+
+<br />
 
 <div align="center">
- 
 
 [About](#-about) | [Strengths (Soft Skills)](#-value) | [Experience](#-experience) | [Education](#-education) | [Extra-Curricular Activities](#-extra-curricular-activities) | [Website](https://www.davidmeadejr.com/)
+
 </div>
+
 
  ## 🔎 About
 
