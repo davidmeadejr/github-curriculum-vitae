@@ -111,7 +111,7 @@ I have demonstrated my exceptional time management skills by successfully balanc
       * Recieved a scholarship to study at The London Institute of Banking & Finance
   
  ## 🌍 Extra-Curricular Activities
-* Sports: amateur boxing, running and chess.
+* Sports: mixed martial arts, running and chess.
 * Reading fiction: Japanese and Korean comics.
 * Reading non-fiction: startups, philosophy, technology.
 
