@@ -29,7 +29,11 @@
 
  ## 🔎 About
 
-A recent graduate of a top European coding bootcamp and a renowned software engineering degree program funded by Santander. Winner of the Google 2022 Project Data Hack and has worked with two web3 startups backed by VCs Meta and Seedcamp. Passionate about using technology for solving problems with customer-focused products.
+A recent graduate of a top European coding bootcamp and a renowned software engineering degree program funded by Santander. 
+
+Winner of the Google 2022 Project Data Hack and has worked with two startups backed by VCs Meta and Seedcamp. 
+
+Focused on leveraging code for customer-centric FinTech products.
  
 ## 💼 Experience
 
