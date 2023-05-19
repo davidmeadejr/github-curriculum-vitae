@@ -10,7 +10,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="mailto:davidmeadejnrgmail.com">
-        <code><img src="https://img.shields.io/badge/-Contact-000000?style=flat&logo=gmail&logoColor=DB4437" /></code>
+        <code><img src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=DB4437" /></code>
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae-updated.pdf">
