@@ -2,6 +2,8 @@
   <img  align="center" src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="60">
 </div>
 
+<br />
+
 <div align="center">
     <a href="mailto:davidmeadejnrgmail.com">
         <code><img src="https://img.shields.io/badge/-Contact-000000?style=flat&logo=gmail&logoColor=DB4437" /></code>
