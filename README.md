@@ -67,6 +67,9 @@ Focused on leveraging code for customer-centric products.
 * Accelerated the delivery of front-end tickets enabling the innovation team to achieve targets using Agile, Angular for scalability & TS.
 * Improved engineer collaboration increasing cross-team collaboration by helping build an in-house learning platform using Angular & TS.
 * Enhanced the team board UX/UI improving product team workflows with Angular and TypeScript.
+* Conducted data analysis within the Cyber Defence Centre through writing python scripts and leveraging tools like Palantir.
+* Conducted R&D on innovative technologies and services in the financial sector, providing valuable insights to senior management.
+* Organised and presented at successful internal developer collaboration sessions in Milton Keynes & Leicester, focused on SWE, data science, design and collaboration.
 
 ## 🤝 Strengths (Soft Skills)
 
